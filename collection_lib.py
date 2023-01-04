@@ -1,6 +1,6 @@
 #This file shall scrape relevant data from websites
 
-from selenium import webdriv
+from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
