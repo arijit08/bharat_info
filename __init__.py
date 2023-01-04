@@ -2,12 +2,14 @@
 #Relevant data - Census, National Family Health Survey, etc. datasets
 #Developer - Arijit Bhagavatula
 
+import os
 import collection_lib as cl
 import preproc as pp
 
-base_path = "C:/Users/08arijit/Documents/Data Science and Machine Learning/Data projects/Bharata Info"
+base_path = os.path.dirname(os.path.realpath(__file__))
 resource_path = "/resource"
 states_path = "/states"
+
 
 #CODE TO GET DOCUMENTS OF EACH STATE FROM NFHS 5
 urlpath = "http://rchiips.org/nfhs/Factsheet_Compendium_NFHS-5.shtml"
