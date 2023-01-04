@@ -2,7 +2,7 @@
 #Relevant data - Census, National Family Health Survey, etc. datasets
 #Developer - Arijit Bhagavatula
 
-import os
+import os # os package
 import collection_lib as cl
 import preproc as pp
 
