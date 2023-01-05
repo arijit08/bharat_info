@@ -20,147 +20,7 @@ Health Survey (NFHS -5)
  
  
  
-International Institute for Population Sciences  
-(Deemed University)
-   
- 
-KEY INDICATORS  
- 
-State and Districts of  
-West Bengal  
- 
-  
-  
-Suggested citation: International Institute for Populati on Sciences (IIPS) and ICF. 2020 . 
-Nati onal Family Health Survey (NFHS) -5, State  and District  Factsheets , West Bengal . Mumbai: IIPS.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-CONTRIBUTORS  
- Chander Shekhar  
- H. Lhungdim  
- K. S. James  
-Balram Paswan  
- Manish Singh  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-© International Institute for Population Sciences, Mumbai  
- 
- 
-For addit ional information about the 2019 -20 Natio nal Family Health Survey (NFHS -5), please 
-contact:  
-International Institute for Population Sciences, Govandi Station Road, Deonar, Mumbai -400 088  
-Telephone: 022 -4237 2467  
-E-mail: nfhs 52017@gmail.com;  director@iips.net  
-For related information, visit http://www.rchiips.org/ nfhs or http://www.iipsindia.ac.in   
- West Bengal - Key Indicators  
-Content  Page No.  
-State   
-West Bengal  1 
-District   
-1. Bankura  7 
-2. Birbhum  13 
-3. Dakshin Dinajpur  19 
-4. Darjeeling  25 
-5. Haora  31 
-6. Hugli  37 
-7. Jalpaiguri  43 
-8. Koch Bihar  49 
-9. Kolkata  55 
-10. Maldah  61 
-11. Murshidabad  67 
-12. Nadia  73 
-13. North Twenty Four Parganas  79 
-14. Paschim Barddhaman  85 
-15. Paschim Medinipur  91 
-16. Purba Barddhaman  97 
-17. Purba Medinipur  103 
-18. Puruliya  109 
-19. South Twenty Four Parganas  115 
-20. Uttar Dinajpur  121  
-   
- 
- 1 Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-201 9-20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-State Fact Sheet 
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT) , and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children;  measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA)  were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 41 (percentage of mothers who re ceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for  West Bengal . NFHS -5 fieldwork for West 
-Bengal was conducted from 21 June, 2019 to 8  Nove mber, 2019  by Indian Institute of He alth Management 
-Research (IIHMR) . Information was gathered from 18,187  households, 21,408  women, and 3,021  men. Fact 
-sheets for each district in West Bengal  are also available separately.   
-2 
+
  West Bengal - Key Indicators  
 Indicators  NFHS -5  
 (2019 -20) NFHS -4 
@@ -425,64 +285,7 @@ HIV/AIDS.
 26Locally pr epared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
 27Spousal violence is defined as physical and/or sexual violence.  
  
-6Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Bankura  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA)  were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who re ceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Bankura . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Bankura , information was gathered from 8 89 households, 997 women, and 13 3 men.
-8 
- 
+
  Bankura , West Bengal - Key Indicators  
 Indicators  NFHS -5  
 (2019 -20) NFHS -4 
@@ -525,36 +328,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  12.4  16.5  
 31. Current users ever told about side effects of current method8 (%) 43.6  50.3  
  
-Note: Major indi cators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart with 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compost ing toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes othe r modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are con sidered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a  mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, a nd want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not a t risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
-  
-9 
+
  
  Bankura , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -693,65 +467,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 11 
- NOTES  
  
-12Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Birbhum  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA)  were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who re ceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Birbhum . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Birbhum , information was gathered from 922 households, 1, 161 women, and 16 8 men.
-14 
  
  Birbhum , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -795,36 +511,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family  planning (%)  21.6  13.7  
 31. Current users ever told about side effects of current method8 (%) 48.1  60.6  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart with 
-small tank, bottled water,  community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/composting toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a w hole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes  other modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women ar e considered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant w ith a mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contracepti on, and want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past  5 years.  
-  
-15 
+
  
  Birbhum , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -959,66 +646,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 17 
- NOTES  
  
-18Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Dakshin Dinajpur  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as presch ool education, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measurement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT), and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available on ly at the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector ha s made over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitor s who stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years prec eding the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive  health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attit udes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and m en age 15 -54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malar ia parasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (P MSMA) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers w ho received 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Dakshin Dinajpur . NFHS -5 fieldwork for  
-West Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health 
-Management Research (IIHMR). In Dakshin Dinajpur , information was gathered from 920 households, 1, 137 
-women, and 163  men.
-20 
  
  Dakshin Dinajpur , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -1062,37 +690,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family  planning (%)  16.0  9.9  
 31. Current users ever told about side effects of current method8 (%) 68.3  42.2  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart w ith 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compost ing toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes othe r modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are con sidered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a  mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, a nd want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not a t risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
-  
-21 
- 
+
  Dakshin Dinajpur , West Bengal - Key Indicators  
 Indicators  NFHS -5  
 (2019 -20) NFHS -4 
@@ -1231,66 +829,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 23 
- NOTES  
  
-24Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Darjeeling  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA)  were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who re ceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Darjee ling. NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Darjeeling , information was gathered from 898  households, 1,058  women, and 163  
-men.
-26 
  
  Darjeeling , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -1503,65 +1042,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 29 
- NOTES  
- 
-30Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Haora  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA)  were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who re ceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Haora . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Haora , information was gathered from 916  households, 1,067 women, and 15 3 men.
-32 
+
  
  Haora , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -1605,36 +1086,6 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  20.5  14.2  
 31. Current users ever told about side effects of current method8 (%) 56.6  60.0  
  
-Note: Major indi cators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart w ith 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/composting toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a w hole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes  other modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women ar e considered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant w ith a mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contracepti on, and want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past  5 years.  
-  
-33 
  
  Haora , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -1773,65 +1224,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 35 
- NOTES  
  
-36Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Hugli  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3.  
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA ) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who r eceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Hugli . NFHS -5 fieldwork for  West Bengal  
-was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management Research 
-(IIHMR). In Hugli , information was gathered from 892 households, 1,020  women, and 1 36 men.
-38 
  
  Hugli , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -1875,36 +1268,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family  planning (%)  13.3  10.4  
 31. Current users ever told about side effects of current method8 (%) 59.7  50.4  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, tanker truck, cart with 
-small tank, bottled water,  community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compo sting toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sent ence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes other mo dern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are conside red to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a mis timed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, and w ant no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unmet need for fam ily planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5 years.  
-  
-39 
+
  
  Hugli , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -2043,65 +1407,7 @@ milk products food group).
 if known. As NFHS uses the capillary blood for estimation of anaemia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 41 
- NOTES  
  
-42Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Jalpaiguri  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA)  were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who re ceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Jalpaiguri . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Jalpaiguri , information was gathered from 919 households, 1,101 women, and 149  
-men.
 44 
  Jalpaiguri , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -2145,36 +1451,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family  planning (%)  15.1  14.9  
 31. Current users ever told about side effects of current method8 (%) 61.1  61.7  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart w ith 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/composting toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a w hole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes  other modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women ar e considered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant w ith a mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contracepti on, and want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past  5 years.  
-  
-45 
+
  Jalpaiguri , West Bengal - Key Indicators  
 Indicators  NFHS -5  
 (2019 -20) NFHS -4 
@@ -2311,66 +1588,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 47 
- NOTES  
- 
-48Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Koch Bihar  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visito rs who stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years pre ceding the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductiv e health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, atti tudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men age 15 -54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, mala ria parasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan ( PMSMA) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who received 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Koch Bihar . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Koch Bihar , information was gathered from 920 households, 1,095 women, and 157  
-men.
-50 
+
  
  Koch Bihar , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -2414,35 +1632,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family  planning (%)  18.3  20.6  
 31. Current users ever told about side effects of current method8 (%) 49.7  55.9  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart w ith 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/composting toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a w hole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes  other modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women ar e considered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant w ith a mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contracepti on, and want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past  5 years.  
-  
+
 51 
  
  Koch Bihar , West Bengal - Key Indicators  
@@ -2579,65 +1769,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 53 
- NOTES  
- 
-54Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Kolkata  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA)  were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who re ceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Kolkata . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Kolkata , information was gathered from 879  households, 921 women, and 1 38 men.
-56 
+
  
  Kolkata , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -2681,35 +1813,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  17.9  4.9  
 31. Current users ever told about side effects of current method8 (%) 57.0  29.8  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart w ith 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compost ing toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes othe r modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are con sidered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a  mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, a nd want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not a t risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
-  
+
 57 
  
  Kolkata , West Bengal - Key Indicators  
@@ -2850,65 +1954,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 59 
- NOTES  
- 
-60Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Maldah  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA)  were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who re ceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Maldah . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Maldah , information was gathered from 911 households, 1, 113 women, and 150  men.
-62 
+
  
  Maldah , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -2952,34 +1998,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  18.9  9.2  
 31. Current users ever told about side effects of current method8 (%) 46.5  29.6  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart w ith 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compost ing toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes othe r modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are con sidered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a  mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, a nd want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not a t risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
+
   
 63 
  
@@ -3121,65 +2140,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 65 
- NOTES  
  
-66Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Murshidabad  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA)  were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who re ceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Murshidabad . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Murshidabad , information was gathered from 917 households, 1, 144 women, and 1 59 
-men.
 68 
  Murshidabad , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -3223,35 +2184,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family  planning (%)  6.4  6.9  
 31. Current users ever told about side effects of current method8 (%) 60.9  27.7  
  
-Note: Major indicato rs are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart with 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compost ing toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes othe r modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are con sidered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a  mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, a nd want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not a t risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
-  
+
 69 
  Murshidabad , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -3385,65 +2318,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 71 
- NOTES  
  
-72Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Nadia  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA)  were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who re ceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Nadia . NFHS -5 fieldwork for  West Bengal  
-was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management Research 
-(IIHMR). In Nadia , information was gathered from 919 households, 1,0 34 women, and 1 46 men.
-74 
  
  Nadia , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -3487,35 +2362,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  20.9  16.3  
 31. Current users ever told about side effects of current method8 (%) 61.6  53.3  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart with 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compost ing toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes othe r modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are con sidered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a  mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, a nd want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not a t risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
-  
+
 75 
  
  Nadia , West Bengal - Key Indicators  
@@ -3651,66 +2498,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 77 
- NOTES  
  
-78Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-North Twenty Four Parganas  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool education, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expand ed to include measurement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/un ion territory (UT), and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence ar e available only at the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the he alth sector has made over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essenti al services.  
-Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the househo ld and visitors who stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the th ree years preceding the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition , reproductive health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health  issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men age 15 -54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing fo r HbA1c, mal aria parasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matri tva Abhiyan (PMSMA) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentag e of mothers who received 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for North Twenty Four Parganas . NFHS -5 
-fieldwork for  West Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of 
-Health Management Research (IIHMR). In North Twenty Four Parganas , information was gathered from 924 
-households, 1,05 5 women, and 148  men.
-80 
  
  North Twenty Four Parganas , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -3754,34 +2542,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  21.9  6.0  
 31. Current users ever told about side effects of current method8 (%) 66.5  45.1  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, tanker truck, cart with 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flu sh to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit (VIP)/biogas latrine, pit latrine  with slab, twin 
-pit/composting toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes other modern methods that are not  shown separately.  
-7Unmet need for family planning refers to fecund women wh o are not using contraception but who wish to postpone the next birth (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are considered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contrace ption, and either do not want to become pregnant within the next two years, or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, and want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up  to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unmet need for fam ily planning  is the sum of unmet need 
-for spacing plus unm et need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
+
   
 81 
  
@@ -3918,66 +2679,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 83 
- NOTES  
  
-84Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Paschim Barddhaman 
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as presch ool education, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measurement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT), and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available on ly at the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector ha s made over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitor s who stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years prec eding the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive  health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attit udes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and m en age 15 -54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malar ia parasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (P MSMA) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers w ho received 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators for Paschim Barddhaman . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Paschim Barddhaman , information was gathered from 912 households, 1, 190 women, 
-and 1 84 men.
-86 
  
  Paschim Barddhaman , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -4020,36 +2722,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  13.7  
 31. Current users ever told about side effects of current method8 (%) 25.8  
  
-Note: Indicator estimates for NFHS -4 are not shown in this table since no comparable estimates are available from NFHS -4 in this district due to district boundary 
-changes or a newly formed district.   Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, tanker truck, cart w ith 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compo sting toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sent ence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes other mo dern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing 
-altogether (limiting). Specifically, women are conside red to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or when they want to 
-become pregnant.  
-   · Pregnant with a mi stimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, and want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unmet need for fam ily planning  is the sum of unmet 
-need for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5 years.  
-  
-87 
+
  
  Paschim Barddhaman , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -4186,66 +2859,7 @@ milk p roducts food group).
 status, if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 89 
- NOTES  
- 
-90Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Paschim Medinipur  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as presch ool education, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measurement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT), and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available on ly at the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector ha s made over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitor s who stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years prec eding the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive  health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attit udes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and m en age 15 -54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malar ia parasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (P MSMA) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers w ho received 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Paschim Medinipur . NFHS -5 fieldwork 
-for West Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health 
-Management Research (IIHMR). In Paschim Medinipur , information was gathered from 910 households, 
-1,002  women, and 1 37 men.
-92 
+
  
  Paschim Medinipur , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -4289,35 +2903,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  23.5  15.5  
 31. Current users ever told about side effects of current method8 (%) 49.3  61.6  
  
-Note: Major indicators are highlighted in grey. Indicator 10 includes households that have any type of toilet facility that h ousehold members usually use and households that 
-do not use a toilet facility but report that they have access to a toilet facility.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, tanker truck, cart w ith 
-small tank, bottled water, commu nity RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/composting toilet, which is not shared with any other househo ld. This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes other modern methods that are not  shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are considered to have unmet need for sp acing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a mistimed pregnancy.  
-   · Postpar tum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, and want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unme t need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
+
   
 93 
  
@@ -4459,66 +3045,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 95 
- NOTES  
- 
-96Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Purba Barddhaman  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as presch ool education, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measurement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT), and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available on ly at the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector ha s made over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitor s who stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years prec eding the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive  health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attit udes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and m en age 15 -54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malar ia parasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers  who received 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators for Purba Barddhaman . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Purba Barddhaman , information was gathered from 915 households, 1,08 8 women, 
-and 163  men.
-98 
+
  
  Purba Barddhaman , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -4561,36 +3088,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  16.0  
 31. Current users ever told about side effects of current method8 (%) 36.0  
  
-Note: Indicator estimates for NFHS -4 are not shown in this table since no comparable estimates are available from NFHS -4 in this district due to district boundary 
-changes or a newly formed district.   Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, tanker truck, cart with 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flu sh to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit (VIP)/biogas latrine, pit latrine  with slab, twin 
-pit/composting toilet, which is not shared with any other household.  This indicator does not denote access to toil et facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes other modern methods that are not  shown separately.  
-7Unmet need for family planning refers to fecund women who ar e not using contraception but who wish to postpone the next birth (spacing) or stop childbearing 
-altogether (limiting). Specifically, women are considered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contracepti on, and either do not want to become pregnant within the next two years, or are unsure if or when they want to 
-become pregnant.  
-   · Pregnant with a mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not usi ng contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, and want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to  two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unmet need for fam ily planning  is the sum of unmet 
-need for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
-  
-99 
+
  
  Purba Barddhaman , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -4727,66 +3225,7 @@ milk p roducts food group).
 status, if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 101 
- NOTES  
- 
-102Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Purba Medinipur  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as presch ool education, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measurement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT), and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available on ly at the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector ha s made over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitor s who stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years prec eding the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive  health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attit udes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and m en age 15 -54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malar ia parasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (P MSMA) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers w ho received 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Purba Medinipur . NFHS -5 fieldwork for  
-West Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health 
-Management Research (IIHMR). In Purba Medinipur , information was gathered from 8 73 households, 957 
-women, and 1 31 men.
-104 
+
  
  Purba Medinipur , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -4830,35 +3269,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  20.6  7.3  
 31. Current users ever told about side effects of current method8 (%) 50.0  27.5  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart with 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compost ing toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes othe r modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are con sidered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a  mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, a nd want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not a t risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
-  
+
 105 
  
  Purba Medinipur , West Bengal - Key Indicators  
@@ -4999,65 +3410,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 107 
- NOTES  
  
-108Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Puruliya  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool e ducation, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measu rement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT),  and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available only at  the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  Th e main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector has mad e over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four S urvey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitors who  stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years preceding  the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive heal th, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men ag e 15-54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria pa rasites, and Vitamin 
-D3.  
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (PMSMA ) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers who r eceived 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Puruliya . NFHS -5 fieldwork for  West 
-Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health Management 
-Research (IIHMR). In Puruliya , information was gathered from 912 households, 1,050 women, and 1 38 men.
-110 
  
  Puruliya , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -5101,35 +3454,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family  planning (%)  21.2  19.7  
 31. Current users ever told about side effects of current method8 (%) 30.7  44.2  
  
-Note: Major indi cators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart with 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compost ing toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes othe r modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are con sidered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a  mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, a nd want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not a t risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
-  
+
 111 
  
  Puruliya , West Bengal - Key Indicators  
@@ -5282,54 +3607,7 @@ District Fact Sheet
 South Twenty Four Parganas  
 West Bengal  
  
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as preschool education, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expand ed to include measurement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/un ion territory (UT), and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence ar e available only at the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the he alth sector has made over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essenti al services.  
-Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the househo ld and visitors who stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the th ree years preceding the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition , reproductive health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health  issues, attitudes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and men age 15 -54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing fo r HbA1c, mal aria parasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matri tva Abhiyan (PMSMA) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentag e of mothers who received 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for South Twenty Four Parganas . NFHS -5 
-fieldwork for  West Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of 
-Health Management Research (IIHMR). In South Twenty Four Parganas , information was gathered from 917 
-households, 1,0 89 women, and 148  men.
-116 
+ 
  
  South Twenty Four Parganas , West Bengal - Key Indicators  
 Indicators  NFHS -5  
@@ -5373,34 +3651,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  17.7  16.6  
 31. Current users ever told about side effects of current method8 (%) 54.5  64.4  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or bor ehole, protected dug well, protected spring, rainwater, tanker truck, cart w ith 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit (VIP)/biogas latrine, pit latrine with slab, twin 
-pit/composting toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who complet ed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that ar e not shown separately; Any modern method includes other modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbea ring altogether 
-(limiting). Specifically, women are considered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or when they want to 
-become pregnant.  
-   · Pregnant with a mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, and want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classifie d as infecund have no unmet need because they are not at risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5 years.  
+
   
 117 
  
@@ -5541,65 +3792,7 @@ milk p roducts food group).
 if known. As NFHS uses the capillary blood for estimation of anae mia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
 23Random blood sugar measurement.  
 119 
- NOTES  
  
-120Ministry of Health and Family Welfare
-National Family Health Survey - 5 
-2019 -20  
- 
-International Institute for Population Sciences  
-(Deemed University)
-District Fact Sheet 
-Uttar Dinajpur  
-West Bengal  
- 
- Introduction  
-The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
-population, health, and nutrition for India and each state/union territory (UT). Like NFHS -4, NFHS -5 also 
-provides district -level estimates for many important indicators.  
-The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
-some new topics, such as presch ool education, disability, access to a toilet facility, death registration, bathing 
-practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
-and biochemical testing (CAB) has also been expanded to include measurement of waist and hip 
-circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
-expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
-national, state/union territory (UT), and district level estimates of various indicators covered in the survey. 
-However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
-knowledge, attitudes and behaviour; and domestic violence are available on ly at the state/union territory (UT) 
-and national level.  
-As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
-International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
-objective of each successive round of the NFHS has been to provide high -quality data on health and family 
-welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
-the progress the health sector ha s made over time. Besides providing evidence for the effectiveness of 
-ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
-specific focus and identifying groups that are most in need of essential services.  
-Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
-using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
-collected on all usual members of the household and visitor s who stayed in the household the previous night, 
-as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
-coverage; disabilities; land ownership; number of deaths in the household in the three years prec eding the 
-survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
-topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
-healthcare, nutrition, reproductive  health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
-domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
-contraception, fertility preferences, nutrition, sexual behaviour, health issues, attit udes towards gender roles, 
-and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
-for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
-women age 15 -49 years and m en age 15 -54 years; and blood pressure and random blood glucose levels for 
-women and men age 15 years and over. In addition, women and men were requested to provide a few 
-additional drops of blood from a finger prick for laboratory testing for HbA1c, malar ia parasites, and Vitamin 
-D3. 
-Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
-smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
-Surakshit Matritva Abhiyan (P MSMA) were not fully rolled out and hence, their coverage may not have been 
-factored in the results of indicator 12 (percentage of households with any usual member covered under a 
-health insurance/financing scheme) and indicator 33 (percentage of mothers w ho received 4 or more 
-antenatal care check -ups).  
-This fact sheet provides information on key indicators and trends for Uttar Dinajpur . NFHS -5 fieldwork for  
-West Bengal  was conducted from 21 June, 2019 to 8 November, 2019 by Indian Institute of Health 
-Management Research (IIHMR). In Uttar Dinajpur , information was gathered from 922 households, 1, 129 
-women, and 157  men.
 122 
  
  Uttar Dinajpur , West Bengal - Key Indicators  
@@ -5644,34 +3837,7 @@ Quality of Family Planning Services
 30. Health worker ever talked to female non -users about family planning (%)  10.3  12.5  
 31. Current users ever told about side effects of current method8 (%) 50.6  51.8  
  
-Note: Major indicators are highlighted in grey.  
- 
-LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
-na = Not available  
-( ) Based on 25 -49 unweighted cases  
-* Percentage not shown; based on fewer than 25 unweighted cases  
- 
-1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, ta nker truck, cart with 
-small tank, bottled water, community RO plant.  
-2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit ( VIP)/biogas latrine, pit latrine with slab, twin 
-pit/compost ing toilet, which is not shared with any other household.  This indicator does not denote access to toilet facility completely.  
-3Electricity, LPG/natural gas, biogas.  
-4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
-5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
-6Any method includes other methods that are not shown separately; Any modern method includes othe r modern methods that are not shown separately.  
-7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
-(limiting). Specifically, women are con sidered to have unmet need for spacing if they are:  
-   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
-become pregnant.  
-   · Pregnant with a  mistimed pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
-   Women are considered to have unmet need for limiting if they are:  
-   · At risk of becoming pregnant, not using contraception, a nd want no (more) children.  
-   · Pregnant with an unwanted pregnancy.  
-   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
-  Women who are classified as infecund have no unmet need because they are not a t risk of becoming pregnant. Unmet need for family planning  is the sum of unmet need 
-for spacing plus unmet need for limiting.  
-8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
+
   
 123 
  
@@ -5815,43 +3981,4 @@ if known. As NFHS uses the capillary blood for estimation of anae mia, the resul
 125 
  NOTES  
  
-126 
- NOTES  
- 
-127INTERNATIONAL INSTITUTE FOR POPULATION SCIENCES  
-Vision:  “To position IIPS as a premier teaching and research institution in population sciences responsive to emerging 
-national and global needs based on values of inclusion, sensitivity and rights protection.”  
-Mission:  “The Institute will strive to be a centre of excellence on population, health and development issues through high 
-quality education, teaching and research. This will be achieved by (a) creating competent professionals, (b) 
-generating and disseminating scientific knowledge and evidence, (c) collabo ration and exchange of knowledge, and 
-(d) advocacy and awareness.”  
-For additional information, please contact:  
-Director/Principal Investigator (NFHS -5) 
-International Institute for Population Sciences  
-Govandi Station Road, Deonar  
-Mumbai - 400 088 (India)  
-Telephone: 022 - 42372467  
-Email: nfhs52017@ gmail.com , director@iips.net  
-Website : http://www.iipsindia.ac.in  
-      http://www.rchiips.org/nfhs/index.shtml  
-Director  General (Stat.)  
-Ministry of Health and Family Welfare  
-Government of India  
-Indian Red Cross Society Building  
-Statistics Division  
-New Delhi 110 001 (India)  
-Telephone: 011 - 23736979 or 23350003  
-Email: rajena@nic.in  
-Chief Director (Stat.)  
-Ministry of Health and Family Welfare  
-Government of India  
-Indian Red Cross Society Building  
-Statistics Division  
-New Delhi 110 001 (India)  
-Telephone: 011 - 23736983  
-Email: nivedita.g@gov.in  
-Website: http://www.mohfw. gov.in 
-Technical assistance and additional funding for NFHS -5 was provided by the USAID -supported Demographic and Health Surveys (DHS) Program, 
-ICF, USA. The contents of this publication do not necessarily reflect the views of USAID or the United States Governmen t.  
-The opinions in this publication do not necessarily reflect the views of the funding agencies.  
-For additional information on NFHS -5, visit http://www.iipsindia.ac.in  or http://www.mohfw. gov.in 
+
