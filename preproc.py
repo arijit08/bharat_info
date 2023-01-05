@@ -5,6 +5,7 @@ import pytesseract
 from pdf2image import convert_from_path
 from PIL import Image
 import os
+import PyPDF2
 
 settings = {}
 poppler_path = ""
@@ -29,7 +30,7 @@ def set_settings(settings1):
         # Store all the pages of the PDF in a variable
 
 
-def read_pdf(pdf_path):
+def read_pdf_ocr(pdf_path):
 
     image_file_list = []
 
@@ -114,4 +115,29 @@ def read_pdf(pdf_path):
         # TemporaryDirectory() we're using gets removed!       
     # End of main function!
 
+
+
+
+def read_pdf(pdf_path):
+    my_dict = {}
+   
+    with open(pdf_path,"rb") as file:
+        file_name = os.path.splitext(os.path.basename(pdf_path))[0]
+        if(not os.path.isdir(os.path.join(base_path,output_path))):
+            os.makedirs(os.path.join(base_path,output_path))
+        with open(os.path.join(base_path,output_path, file_name +'.txt'),"w+", encoding='utf-8') as output:
+            pdf = PyPDF2.PdfReader(file)
+            for page in range(len(pdf.pages)):
+                page_obj = pdf.pages[page] # Extract the page
+                text = page_obj.extract_text() # Extract text from page
+                # my_dict[pdf_file] = text
+                output.write(text)
+
+
+
+  
+
+      # image = page_obj.asImage()  # Create an image from page
+      # # Save image to a file
+      # image.save('page{}.jpg'.format(page))
 

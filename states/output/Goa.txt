@@ -1,0 +1,978 @@
+ 
+1 
+   
+Ministry of Health and Family Welfare  
+  
+ 
+ 
+  Compendium  of Fact Sheets  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+National Family                 2019 -20 
+Health  Survey (NFHS -5) 
+ 
+ 
+ 
+ 
+ 
+International Institute for Population Sciences  
+(Deemed University)
+   
+ 
+KEY INDICATORS  
+ 
+State and Districts of Goa  
+ 
+  
+  
+Suggested citation: International Institute for Populati on Sciences (IIPS) and ICF. 2020 . 
+Nati onal Family Health Survey (NFHS) -5, State  and District  Factsheets , Goa. Mumbai: IIPS.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTRIBUTORS  
+K. S. James  
+Sarang Pedgaonkar  
+H. Lhungdim  
+Vaidehi Yelamanchili  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© International Institute for Population Sciences, Mumbai  
+ 
+ 
+For addit ional information about the 2019 -20 Natio nal Family Health Survey (NFHS -5), please 
+contact:  
+International Institute for Population Sciences, Govandi Station Road, Deonar, Mumbai -400 088  
+Telephone: 022 -4237 2467  
+E-mail: nfhs 52017@gmail.com;  director@iips.net  
+For related information, v isit http://www.rchiips.org/ nfhs or http://www.iipsindia.ac.in   
+ Key Indicators  Content  
+Content  Page No.  
+State   
+Goa 1 
+District   
+1. North Goa  7 
+2. South Goa  13 
+ 
+ 
+   
+  1 Ministry of Health and Family Welfare
+National Family Health Survey - 5 
+201 9-20  
+International Institute for Population Sciences  
+(Deemed University)
+State Fact Sheet 
+Goa  
+ 
+ Introduction  
+The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
+population, health, and nutrition for India and each state/union territory (UT) . Like NFHS -4, NFHS -5 also 
+provides district -level estimates for many important indicators.  
+The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
+some new topics, such as preschool education, disability, acce ss to a toilet facility, death registration, bathing 
+practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
+and biochemical testing (CAB) has also been expanded to include measurement of waist and hip 
+circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
+expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
+national, state/union territory (UT), and district level estima tes of various indicators covered in the survey. 
+However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
+knowledge, attitudes and behaviour; and domestic violence are available only at the state/union territory  (UT) 
+and national level.  
+As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated the 
+International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
+objective of each s uccessive round of the NFHS has been to provide high -quality data on health and family 
+welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
+the progress the health sector has made over time. Besides provi ding evidence for the effectiveness of 
+ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
+specific focus and identifying groups that are most in need of essential services.  
+Four Survey Schedules - Househol d, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
+using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
+collected on all usual members of the household and visitors who stayed in the household t he previous night, 
+as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
+coverage; disabilities; land ownership; number of deaths in the household in the three years preceding the 
+survey; and the owner ship and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
+topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
+healthcare, nutrition, reproductive health, sexual behaviour, HIV/ AIDS, women’s empowerment, and 
+domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
+contraception, fertility preferences, nutrition, sexual behaviour, health issues, attitudes towards gender roles, 
+and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
+for children; measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
+women age 15 -49 years and men age 15 -54 years; and blood p ressure and random blood glucose levels for 
+women and men age 15 years and over. In addition, women and men were requested to provide a few 
+additional drops of blood from a finger prick for laboratory testing for HbA1c, malaria parasites, and Vitamin 
+D3.  
+Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
+smaller sample size. Moreover, a t the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
+Surakshit Matritva Abhiyan (PMSMA) were not fully rolled ou t and hence, their coverage may not have been 
+factored in the results of indicator 12 (percentage of households with any usual member covered under a 
+health insurance/financing scheme) and indicator 41 (percentage of mothers who received 4 or more 
+antenata l care check -ups).  
+This fact sheet provides information on key indicators and trends for Goa. NFHS -5 fieldwork for Goa was 
+conducted from 30 August , 2019 to 26  November, 2019 by Nielsen India Pvt. Ltd . Information was gathered 
+from 1,8 56 households, 2,030 women, and 313 men. Fact sheets for each district in Goa are also available 
+separately.  
+2Goa - Key Indicators
+Indicators  NFHS -5 
+(2019 -20) NFHS -4 
+(2015 -16) 
+Population and Household Profile  Urban  Rural  Total  Total  
+1. Female population age 6 years and above who ever attended school (%) 90.2 87.2 89.0 85.0 
+2. Population below age 15 years (%) 19.8 18.1 19.1 23.2 
+3. Sex ratio of the total population (females per 1,000 males) 985 1,092 1,027 1,018 
+4. Sex ratio at birth for children born in the last five years (females per 1,000 males) 822 864 838 966 
+5. Children under age 5 years whose birth was registered with the civil authority (%) 100.0 100.0 100.0 98.9 
+6. Deaths in the last 3 years registered with the civil authority (%) 100.0 100.0 100.0 na 
+7. Population living in households with electricity (%) 100.0 100.0 100.0 99.8 
+8. Population living in households with an improved drinking -water source1 (%) 99.0 97.8 98.5 96.7 
+9. Population living in households that use an improved sanitation facility2 (%) 89.0 86.4 87.9 78.7 
+10. Households using clean fuel for cooking3 (%) 98.8 93.1 96.5 84.1 
+11. Households using iodized salt (%) 97.7 97.4 97.6 95.7 
+12. Households with any usual member covered under a health insurance/financing scheme (%) 65.1 67.5 66.0 15.9 
+13. Children age 5 years who attended pre -primary school during the school year 2019 -20 (%) 19.5 (18.2)  19.0 na 
+Characteristics of Adults (age 15 -49 years ) 
+14. Women who are literate4 (%) 92.6 93.4 93.0 na 
+15. Men who are literate4 (%) 94.9 98.5 96.3 na 
+16. Women with 10 or more years of schooling (%) 73.0 69.3 71.5 58.2 
+17. Men with 10 or more years of schooling (%) 75.0 79.4 76.6 63.6 
+18. Women who have ever used the internet (%) 78.1 68.3 73.7 na 
+19. Men who have ever used the internet (%) 86.1 76.6 82.9 na 
+Marriage and Fertility  
+20. Women age 20 -24 years married before age 18 years (%) 7.7 3.2 5.8 9.8 
+21. Men age 25 -29 years married before age 21 years (%) (12.1)  * (8.9) 8.4 
+22. Total fertility rate (children per woman) 1.3 1.4 1.3 1.7 
+23. Women age 15 -19 years who were already mothers or pregnant at the time of the survey (%) 2.8 2.7 2.8 2.9 
+24. Adolescent fertility rate for women age 15 -19 years517 11 14 16 
+Infant and Child Mortality Rates (per 1,000 live births)  
+25. Neonatal mortality rate (NNMR) * * (5.6) (12.9)  
+26. Infant mortality rate (IMR) * * (5.6) (12.9)  
+27. Under -five mortality rate (U5MR) * * (10.6)  (12.9)  
+Current Use of Family Planning Methods (currently married women age 15 –49 years)  
+28. Any method6 (%) 72.3 61.1 67.9 26.3 
+29. Any modern method6 (%) 65.0 52.4 60.1 24.8 
+30.Female sterilization (%) 33.2 24.9 29.9 16.3 
+31. Male sterilization (%) 0.0 0.0 0.0 0.0 
+32. IUD/PPIUD (%) 2.5 2.2 2.4 0.9 
+33. Pill (%) 3.4 1.7 2.7 0.3 
+34. Condom (%) 24.6 21.1 23.2 7.1 
+35. Injectables (%) 0.0 0.0 0.0 0.1 
+Unmet  Need for Family Planning (currently married women age 15 –49 years)  
+36. Total unmet need7 (%) 7.3 10.1 8.4 17.5 
+37. Unmet need for spacing7 (%) 3.5 4.7 4.0 8.3 
+Quality of Family Planning Services  
+38. Health worker ever talked to  female non -users about family planning (%) 27.2 28.4 27.7 44.2 
+39. Current users ever told about side effects of current method8 (%) 86.4 (83.1)  85.5 (76.0)  
+Note: Major indicators are highlighted in grey.  
+LHV = Lady health visitor ; ANM = Auxiliary nurse midwife ; na = Not available  
+For all indicators other than 2 5, 26, 27: ( ) Based on 25 -49 unweighted cases; * Percentage not shown; based on fewer than 25 unweighted case;  
+For indicators 2 5, 26 and 2 7: ( ) Based on 250 -499 unweighted  person -years of exposure to the risk of death; * Based on fewer than 250 unweighted person -years of 
+exposure to the risk of death  
+1Piped water into dwelling/yard/plot, piped to neighbour , public tap/standpipe, tube well or borehole, protected dug well, protected spring, rainwater, tanker truck, cart with 
+small tank, bottled water, community RO plant.  
+2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't  know where, ventilated improved pit (VIP)/biogas latrine, pit latrine with slab, twin 
+pit/composting toilet, which is not shared with any other household.  This indicator  does  not denote  access to toilet facility.  
+3Electricity, LPG/natural gas, biogas.  
+4Refers to women/men who completed standard 9 or higher and women/men who can read a whole sentence or part of a sentence.  
+5Equivalent to the age -specific fertility rate for the 3 -year period preceding the survey, expressed in terms of births per 1,000 wome n age 15 -19.  
+6Any method includes other methods that are not shown separately; Any modern method includes other modern methods that are not  shown separately.  
+7Unmet need for family planning refers to fecund women who are not using contraception but who wi sh to postpone the next birth (spacing) or stop childbearing 
+altogether (limiting). Specifically, women are considered to have unmet need for spacing if they are:  
+· At risk of becoming pregnant, not using contraception, and either do not want to become  pregnant within the next two years, or are unsure if or when they want to 
+become pregnant.  
+· Pregnant with a mistimed pregnancy.
+· Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.
+  Women are consi dered to have unmet need for limiting if they are:  
+· At risk of becoming pregnant, not using contraception, and want no (more) children.
+· Pregnant with an unwanted pregnancy.
+· Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.
+  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unmet need for fam ily planning  is the sum  of unmet 
+need for spacing plus unmet need for limiting.  
+8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
+3 
+ Goa - Key Indicators  
+Indicators  NFHS -5  
+(2019 -20) NFHS -4 
+(2015 -16) 
+Maternal and Child Health  Urban  Rural  Total  Total  
+Maternity Care (for last birth in the 5 years before the survey)      
+40. Mothers who had an antenatal check -up in the first trimester (%)  66.5  76.2  70.3  84.4  
+41. Mothers who had at least 4  antenatal care visits (%)  92.9  93.1  93.0  89.0  
+42. Mothers whose last birth was protected against neonatal tetanus9 (%) 98.0  94.2  96.5  96.2  
+43. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%)  87.0  88.2  87.5  67.4  
+44. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%)  61.4  70.5  65.0  52.8  
+45. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) 
+card (%)  99.7  100.0  99.8  96.3  
+46. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health 
+personnel within 2 days of delivery (%)  96.5  93.7  95.4  92.1  
+47. Average out -of-pocket expenditure per delivery in a public health facility (Rs.)  3,875  3,706  3,804  5,012  
+48. Children born at home who were taken to a health facility for a check -up within 24 hours of 
+birth (%)  * * * * 
+49. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health 
+personnel within 2 days of delivery (%) 97.4  95.7  96.7  na 
+Delivery Care (for births in the 5 years before the survey)          
+50. Institutional births (%)  99.6  100.0  99.7  96.9  
+51. Institutional births in public facility (%)  53.1  61.1  56.2  58.2  
+52. Home births that were conducted by skilled health personnel10 (%) 0.0  0.0  0.0  1.8  
+53. Births attended by skilled health personnel10 (%) 98.6  100.0  99.1  97.5  
+54. Births delivered by caesarean section (%)  39.1  40.1  39.5  31.4  
+55. Births in a private health facility that were delivered by caesarean section (%)  46.6  56.6  50.0  51.3  
+56. Births in a public health facility that were delivered by caesarean section (%)  32.9  29.6  31.5  19.9  
+Child Vaccinations  and Vitamin A Supplementation          
+57. Children age 12-23 months fully vaccinated based on information from either vaccination card 
+or mother's recall11 (%) (77.9)  (88.1)  81.9  88.4  
+58. Children age 12 -23 months fully vaccinated based on information from vaccination card  
+only12 (%) (87.7)  * 91.0  95.8  
+59. Children age 12 -23 months who have received BCG (%)  (96.5)  (100.0)  97.9  100.0  
+60. Children age 12 -23 months who have received 3 doses of polio vaccine13 (%) (83.8)  (95.1)  88.4  92.9  
+61. Children age 12 -23 months who have received 3 doses of penta  or DPT vaccine (%)  (89.3)  (92.9)  90.8  94.2  
+62. Children age 12 -23 months who have received the first dose of measles -containing  
+vaccine (MCV) (%)  (92.9)  (92.9)  92.9  96.5  
+63. Children age 24 -35 months who have received a second dose of measles -containing  
+vaccine (MCV) (%)  (23.2)  (19.5)  21.7  na 
+64. Children age 12 -23 months who have received 3 doses of rotavirus vaccine14 (%) (2.3) (12.3)  6.3  na 
+65. Children age 12 -23 months who have received 3 doses of penta or hepatitis B vaccine (%)  (95.2)  (89.2)  92.8  85.2  
+66. Children age 9 -35 months who received a vitamin A dose in the last 6 months (%)  94.4  88.1  91.9  91.8  
+67. Children age 12 -23 months who received most of their vaccinations in a public health  
+facility (%)  (90.8)  (95.6)  92.7  77.2  
+68. Children age 12 -23 months who received most of their vaccinations in a private health  
+facility (%)  (9.2) (4.5) 7.3  22.8  
+Treatment of Childhood Diseases (children under age 5 years)          
+69. Prevalence of diarrhoea in the 2 weeks preceding the survey (%)  2.1  5.0  3.2  3.8  
+70. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration 
+salts (ORS) (%)  * * * * 
+71. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%)  * * * * 
+72. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health 
+provider (%)  * * * * 
+73. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the 
+survey (%)  0.0  2.4  0.9  1.4  
+74. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health 
+facility or health provider (%)  (82.2)  * 86.6  89.0  
+9Includes mothers with two injections during the pregnancy for their last birth, or two or more injections (the last within 3 years of the last live birth), or three or more 
+injections (the last within 5 years of the last birth), or four or  more injections (the last within 10 years of the last live birth), or five or more injections at any time prior to the 
+last birth.  
+10Doctor/nurse/LHV/ANM/midwife/other health personnel.  
+11Vaccinated with BCG, measles -containing vaccine (MCV)/MR/MMR/Measles, and 3 doses each of polio (excluding polio vaccine given at birth) and DPT or penta 
+vaccine.  
+12Among children whose vaccination card was shown to the interviewer, percentage vaccinated w ith BCG, measles -containing vaccine (MCV)/MR/MMR/Measles, and 3 
+doses each of polio (excluding polio vaccine given at birth) and DPT or penta vaccine.  
+13Not including polio vaccination given at birth.  
+14Since rotavirus is not being provided across all states and districts, the levels should not be compared.  
+ 
+  
+4 
+ Goa - Key Indicators   
+Indicators  NFHS -5  
+(2019 -20) NFHS -4 
+(2015 -16) 
+Child Feeding Practices and Nutritional Status of Children  Urban  Rural  Total  Total  
+75. Children under age 3 years breastfed within one hour of birth15 (%) 60.7  62.9  61.6  73.3  
+76. Children under age 6 months exclusively breastfed16 (%) * * (61.4)  (60.9)  
+77. Children age 6 -8 months receiving solid or semi -solid food and breastmilk16 (%) * * * * 
+78. Breastfeeding children age 6 -23 months receiving an adequate diet16, 17  (%) 18.9  (21.8)  20.2  9.1  
+79. Non -breastfeeding children age 6 -23 months receiving an adequate diet16, 17 (%) * * * (15.1)  
+80. Total children age 6 -23 months receiving an adequate diet16, 17  (%) 21.1  (22.2)  21.5  10.4  
+81. Children under 5 years who are stunted (height -for-age)18 (%) 24.3  28.2  25.8  20.1  
+82. Children under 5 years who are wasted (weight -for-height)18 (%) 17.7  21.5  19.1  21.9  
+83. Children under 5 years who are severely wasted (weight -for-height)19 (%) 6.4  9.4  7.5  9.5  
+84. Children under 5 years who are underweight (weight -for-age)18 (%) 22.5  26.6  24.0  23.8  
+85. Children under 5 years who are overweight (weight -for-height)20 (%) 2.2  3.6  2.8  3.7  
+Nutritional Status of  Adults (age 15 -49 years)          
+86. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%) 13.1  15.0  13.8  14.7  
+87. Men whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2) (%)  9.3  18.4  12.5  10.8  
+88. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%) 38.1  33.1  36.1  33.5  
+89. Men who are overweight or obese (BMI ≥25.0 kg/m2) (%)  32.5  32.8  32.6  32.6  
+90. Women who have high risk waist -to-hip ratio (≥0.85) (%)  51.1  51.0  51.1  na 
+91. Men who have high risk waist -to-hip ratio (≥0.90) (%)  34.2  37.8  35.4  na 
+Anaemia among Children and Adults          
+92. Children age 6 -59 months who are anaemic (<11.0 g/dl)22 (%) 53.3  53.1  53.2  48.3  
+93. Non -pregnant women age 15 -49 years who are anaemic (<12.0 g/dl)22 (%) 39.9  37.5  38.9  31.4  
+94. Pregnant women age 15 -49 years who are anaemic (<11.0 g/dl)22 (%) (46.1)  * (41.0)  (26.7)  
+95. All women age 15 -49 years who are anaemic22 (%) 40.0  37.4  39.0  31.3  
+96. All women age 15 -19 years who are anaemic22 (%)  43.5  45.7  44.5  30.5  
+97. Men age 15 -49 years who are anaemic (<13.0 g/dl)22 (%) 13.3  9.5  12.0  11.0  
+98. Men age 15 -19 years who are anaemic (<13.0 g/dl)22 (%) (11.9)  * (15.8)  6.6  
+Blood Sugar Level among Adults ( age 15 years and above )         
+Women          
+99. Blood sugar level - high (141 -160 mg/dl)23 (%) 8.2  9.1  8.6  na 
+100. Blood sugar level - very high (>160 mg/dl)23 (%) 9.7  9.5  9.6  na 
+101. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood  
+sugar level23 (%) 20.6  21.1  20.8  na 
+Men         
+102. Blood sugar level - high (141 -160 mg/dl)23 (%) 10.3  10.3  10.3  na 
+103. Blood sugar level - very high (>160 mg/dl)23 (%) 10.8  12.9  11.6  na 
+104. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood  
+sugar level23 (%) 23.0  25.9  24.1  na 
+Hypertension among Adults ( age 15 years and above )         
+Women          
+105. Mildly elevated blood pressure (Systolic 140 -159 mm of Hg and/or  
+Diastolic 90 -99 mm of Hg) (%)  12.6  11.5  12.1  na 
+106. Moderately or severely elevated blood pressure (Systolic ≥160  mm of Hg and/or  
+Diastolic ≥100  mm of Hg) (%)  3.5  3.8  3.6  na 
+107. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking 
+medicine to control blood pressure (%)  27.6  27.4  27.5  na 
+Men         
+108. Mildly elevated blood pressure (Systolic 140 -159 mm of Hg and/or  
+Diastolic 90 -99 mm of  Hg) (%) 14.4  15.5  14.8  na 
+109. Moderately or severely ele vated blood pressure (Systolic ≥160  mm of Hg and/or  
+Diastolic ≥100  mm of Hg) (%)  4.7  4.7  4.7  na 
+110. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking   
+medicine to control blood pressure (%)  25.9  28.2  26.8  na 
+15Based on the last child born in the 3 years before the survey.  
+16Based on the youngest child living with the mother.   
+17Breastfed children receiving 4 or more food groups and a minimum meal frequency, non -breastfed children fed with a minimum of 3 Infant and Young Child Feeding 
+Practices (fed with other milk or milk products at least twice a day, a minimum meal frequency th at is, receiving solid or semi -solid food at least twice a day for breastfed 
+infants 6 -8 months and at least three times a day for breastfed children 9 -23 months, and solid or semi -solid foods from at least four food groups not including the milk or 
+milk p roducts food group).  
+18Below -2 standard deviations, based on the WHO standard.  
+19Below -3 standard deviations, based on the WHO standard.  
+20Above +2 standard deviations, based on the WHO standard.  
+21Excludes pregnant women and women with a birth in the preceding 2 months.  
+22Haemoglobin in grams per decilitre (g/dl). Among children, prevalence is adjusted for altitude. Among adults, prevalence is a djusted for altitude and for smoking status, if 
+known.  As NFHS uses the capillary blood for estimation of ana emia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
+23Random blood sugar measurement.  
+ 
+  
+5 
+ Goa - Key Indicators  
+Indicators  NFHS -5  
+(2019 -20) NFHS -4 
+(2015 -16) 
+Screening for Cancer among Adults (age 30 -49 years)  Urban  Rural  Total  Total  
+Women      
+111. Ever undergone a screening test for cervical cancer (%)  1.6  0.6  1.2  na 
+112. Ever undergone a breast  examination for breast cancer (%) 1.3  1.2  1.3  na 
+113. Ever undergone an oral cavity examination for oral cancer (%) 0.8  0.4  0.6  na 
+Men         
+114. Ever undergone an oral cavity examination for oral cancer (%)  0.6  2.1  1.1  na 
+Knowledge of HIV/AIDS among Adults (age 15 -49 years)          
+115. Women who have comprehensive knowledge24 of HIV/AIDS (%)  47.7  50.6  49.0  34.6  
+116. Men who have comprehensive knowledge24 of HIV/AIDS (%) 62.8  74.7  67.2  41.9  
+117. Women who know that consistent condom use can reduce the chance of getting  
+HIV/AIDS  (%) 89.4  90.8  90.1  77.4  
+118. Men who know that consistent  condom use can reduce the chance of getting HIV/AIDS (%)  98.0  97.5  97.8  89.2  
+Women's Empowerment (women age 15 -49 years)          
+119. Currently married women who usually participate in three household decisions25 (%) 89.3  98.6  93.1  93.8  
+120. Women who worked in the last 12 months and were paid in cash (%)  35.2  27.9  31.9  23.6  
+121. Women owning a house and/or land (alone or jointly with others) (%)  22.4  24.1  23.2  33.9  
+122. Women having a bank or savings account that they themselves use  (%) 85.1  92.4  88.3  82.8  
+123. Women having a mobile phone that they themselves use (%)  94.5  87.1  91.2  80.9  
+124. Women age 15 -24 years who use hygienic methods of protection during their  
+menstrual period26 (%) 96.2  97.6  96.8  89.3  
+Gender Based Violence (age 18 -49 years)          
+125. Ever -married women age 18 -49 years who have ever experienced spousal violence27 (%) 6.0  11.4  8.3  12.9  
+126. Ever -married women age 18 -49 years who have experienced physical violence during any 
+pregnancy (%) 0.9  2.7  1.6  1.6  
+127. Young women age 18 -29 years who experienced sexual violence by age 18 (%)  (0.0) * 0.0  0.0  
+Tobacco Use and Alcohol Consumption among Adults (age 15 years and above)          
+128. Women age 15 years and above who use any kind of tobacco (%)  2.4  2.8  2.6  na 
+129. Men age 15 years and above who use any kind of tobacco (%)  19.5  16.3  18.2  na 
+130. Women age 15 years and above who consume alcohol (%)  5.6  5.3  5.5  na 
+131. Men age 15 years and above who consume alcohol (%) 38.2  34.9  36.9  na 
+24Comprehensive knowledge means knowing that consistent use of condoms every time they have sex and having just one uninfected faithful sex partner can reduce the 
+chance of getting HIV/AIDS, knowing that a healthy -looking person can have HIV/AIDS, and rejecting two common misconceptions about transmission or prevention of 
+HIV/AIDS.  
+25Decisions about health care for herself, making major household purchases, and visits to her family or relatives.  
+26Locally prepared napkins, sanitar y napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
+27Spousal violence is defined as physical and/or sexual violence.  
+6Ministry of Health and Family Welfare
+National Family Health Survey - 5 
+2019 -20  
+ 
+International Institute for Population Sciences  
+(Deemed University)
+District Fact Sheet 
+North Goa  
+Goa  
+ 
+ Introduction  
+The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
+population, health, and nutrition for India and each state/union  territory (UT). Like NFHS -4, NFHS -5 also 
+provides district -level estimates for many important indicators.  
+The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
+some new topics, such as preschool education, d isability, access to a toilet facility, death registration, bathing 
+practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
+and biochemical testing (CAB) has also been expanded to include measurement of w aist and hip 
+circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
+expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
+national, state/union territory (UT) , and distri ct level estimates of various indicators covered in the survey. 
+However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
+knowledge, attitudes and behaviour; and domestic violence are available only at the state/ union territory (UT) 
+and national level.  
+As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated  the 
+International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
+objective of each successive round of the NFHS has been to provide high -quality data on health and family 
+welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
+the progress the health sector has made over time . Besides providing evidence for the effectiveness of 
+ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
+specific focus and identifying groups that are most in need of essential services.  
+Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
+using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
+collected on all usual members of the household and visito rs who stayed in the household the previous night, 
+as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
+coverage; disabilities; land ownership; number of deaths in the household in the three years pre ceding the 
+survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
+topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
+healthcare, nutrition, reproductiv e health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
+domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
+contraception, fertility preferences, nutrition, sexual behaviour, health issues, atti tudes towards gender roles, 
+and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
+for children;  measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
+women age 15 -49 years and men age 15 -54 years; and blood pressure and random blood glucose levels for 
+women and men age 15 years and over. In addition, women and men were requested to provide a few 
+additional drops of blood from a finger prick for laboratory testing for HbA1c, mala ria parasites, and Vitamin 
+D3.  
+Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
+smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
+Surakshit Matritva Abhiyan (PMSMA) were not fully rolled out and hence, their coverage may not have been 
+factored in the results of indicator 12 (percentage of households with any usual member covered under a 
+health insurance/fi nancing scheme) and indicator 33  (percentage of mothers  who received 4 or more 
+antenatal care check -ups).  
+This fact sheet provides information on key indicators and trends for  North Goa . NFHS -5 fieldwork for Goa 
+was conducted from 30 August, 2019 to 26 November, 2019 by Nielsen India Pvt. Ltd . In North Goa , 
+information was gathered from 925 households, 975 women, and 148 men.  
+ 
+8 
+ 
+ North Goa , Goa - Key Indicators  
+Indicators  NFHS -5 
+(2019 -20) NFHS -4 
+(2015 -16) 
+Population and Household Profile   Total  Total  
+1. Female population age 6 years and  above who ever attended school (%)  89.5  86.6  
+2. Population below age 15 years (%)  19.3  22.3  
+3. Sex ratio of the total population (females per 1,000 males)  1,017  1,030  
+4. Sex ratio at birth for children born in the last five years (females per 1,000 males)  849  963  
+5. Children under age 5 years whose birth was registered with the civil authority (%)  100.0  99.4  
+6. Deaths in the last 3 years registered with the civil authority (%)  100.0  na 
+7. Population living in households with electricity  (%) 100.0  99.7  
+8. Population living in households with an improved drinking -water source1 (%) 98.1  96.8  
+9. Population living in households that use an improved sanitation facility2 (%) 87.7  81.3  
+10. Households using clean fuel for cooking3 (%) 96.7  82.5  
+11. Households using iodized salt (%)  98.1  94.5  
+12. Households with any usual member covered under a health insurance/financing scheme (%)  64.8  21.9  
+13. Children age 5 years who attended pre -primary school during the school year 2019 -20 (%) (17.6)  na 
+Characteristics of Women  (age 15 -49 years )      
+14. Women who are literate4 (%) 92.4  na 
+15. Women with 10 or more years of schooling (%)  72.0  61.7  
+Marriage and Fertility      
+16. Women age 20 -24 years married before age 18 years (%)  7.5  9.9  
+17. Births in the 5 years preceding the survey that are third or higher order (%)  1.5  1.9  
+18. Women age 15 -19 years who were already mothers or pregnant at the time of the survey (%)  2.7  2.1  
+19. Women age 15 -24 years who use hygienic methods of protection during their menstrual period5 (%) 97.3  90.1  
+Current Use of Family Planning Methods (currently married women age 15 –49 years)      
+20. Any method6 (%) 63.1  20.9  
+21. Any modern method6 (%) 54.8  20.2  
+22. Female sterilization (%) 23.0  11.3  
+23. Male sterilization (%)  0.0  0.0  
+24. IUD/PPIUD (%)  2.3  0.8  
+25. Pill (%)  4.0  0.6  
+26. Condom (%)  23.1  7.2  
+27. Injectables (%)  0.0  0.2  
+Unmet Need for Family Planning (currently married women age 15 –49 years)      
+28. Total unmet need7 (%) 9.2  18.4  
+29. Unmet need for spacing7 (%) 4.5  9.2  
+Quality of Family Planning Services    
+30. Health worker ever talked to female non -users about family planning (%)  33.2  48.9  
+31. Current users ever told about side effects of current  method8 (%) 82.1  * 
+ 
+Note: Major indicators are highlighted in grey.  
+ 
+LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
+na = Not available  
+( ) Based on 25 -49 unweighted cases  
+* Percentage not shown; based on fewer than 25 unweighted cases  
+ 
+1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, tanker truck, cart w ith 
+small tank, bottled water, community RO plant.  
+2Flush to piped sewer system, flu sh to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit (VIP)/biogas latrine, pit latrine  with slab, twin 
+pit/composting toilet, which is not shared with any other household.  This indicator does not denote access to toil et facility completely.  
+3Electricity, LPG/natural gas, biogas.  
+4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
+5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
+6Any method includes other methods that are not shown separately; Any modern method includes other modern methods that are not  shown separately.  
+7Unmet need for family planning refers to fecund women who are not using contraception but who wish to postpone the next birth  (spacing) or stop childbearing altogether 
+(limiting). Specifically, women are considered to have unmet need for sp acing if they are:  
+   · At risk of becoming pregnant, not using contraception, and either do not want to become pregnant within the next two years,  or are unsure if or wh en they want to 
+become pregnant.  
+   · Pregnant with a mistimed pregnancy.  
+   · Postpar tum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
+   Women are considered to have unmet need for limiting if they are:  
+   · At risk of becoming pregnant, not using contraception, and want no (more) children.  
+   · Pregnant with an unwanted pregnancy.  
+   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
+  Women who are classified as infecund have no unmet need because they are not at risk of becoming pregnant. Unme t need for family planning  is the sum of unmet need 
+for spacing plus unmet need for limiting.  
+8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
+  
+9 
+ 
+ North Goa , Goa - Key Indicators  
+Indicators  NFHS -5 
+(2019 -20) NFHS -4 
+(2015 -16) 
+Maternal and Child Health  Total  Total  
+Maternity Care (for last birth in the 5 years before the survey)    
+32. Mothers who had an antenatal check -up in the first trimester (%)  74.6  92.6  
+33. Mothers who had at least 4 antenatal care visits (%)  91.3  93.9  
+34. Mothers whose last birth was protected against neonatal tetanus9 (%) 95.8  99.7  
+35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%)  84.8  88.6  
+36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%)  68.4  78.3  
+37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%)  100.0  96.5  
+38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 
+days of delivery (%)  93.1  94.4  
+39. Average out -of-pocket expenditure per delivery in a public health facility (Rs.)  3,824  7,017  
+40. Children born at home who were taken to a health facility for a check -up within 24 hours of birth (%)  * * 
+41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 
+days of delivery (%)  95.9  na 
+Delivery Care (for births in the 5 years before the  survey)      
+42. Institutional births (%)  99.6  98.6  
+43. Institutional births in public facility (%)  58.6  59.3  
+44. Home births that were conducted by skilled health personnel10 (%) 0.0  1.4  
+45. Births attended by skilled health personnel10 (%) 98.6  99.0  
+46. Births delivered by caesarean section (%)  39.5  32.9  
+47. Births in a private health facility that were delivered by caesarean section (%)  46.7  49.0  
+48. Births in a public health facility that were delivered by caesarean section (%)  34.7  23.1  
+Child Vaccinations  and Vitamin A Supplementation      
+49. Children age 12 -23 months fully vaccinated based on information from either vaccination card or  
+mother's recall11 (%) (78.6)  (87.3)  
+50. Children age 12 -23 months fully vaccinated based on information from vaccination card only12 (%) (87.5)  (96.8)  
+51. Children age 12 -23 months who have received BCG (%)  (97.1)  (100.0)  
+52. Children age 12 -23 months who have received 3 doses of polio vaccine13 (%) (85.5)  (90.7)  
+53. Children age 12 -23 months who have received 3 doses of penta or DPT vaccine (%)  (87.3)  (96.6)  
+54. Children age 12 -23 months who have received the first dose of measles -containing vaccine (MCV) (%)  (92.2)  (93.8)  
+55. Children age 24 -35 months who have received a second dose of measles -containing vaccine (MCV) (%)  (20.3)  na 
+56. Children age 12 -23 months who have received 3 doses of rotavirus vaccine14 (%) (5.3) na 
+57. Children age 12 -23 months who have received 3 doses of penta  or hepatitis B vaccine (%)  (90.2)  (83.0)  
+58. Children age 9 -35 months who received a vitamin A dose in the last 6 months (%)  94.4  92.9  
+59. Children age 12 -23 months who received most of their vaccinations in a public health facility (%)  (93.8)  (75.3)  
+60. Children age 12 -23 months who received most of their vaccinations in a private health facility (%)  (6.2) (24.7)  
+Treatment of Childhood Diseases (children under age 5 years)      
+61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%)  3.6  5.5  
+62. Children with diarrhoea in the 2 weeks preceding the survey who received oral rehydration salts (ORS) (%)  * * 
+63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%)  * * 
+64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%)  * * 
+65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%)  1.5  1.4  
+66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health 
+provider (%)  (83.6)  (88.6)  
+ 
+9Includes mothers with two injections during the pregnancy for their last birth, or two or more injections (the last within 3 years of the last live birth), or three or more 
+injections (the last within 5 years of the last birth), or four or more injections (the last within 10 years of the last live birth), or five or more injections at any time prior to the 
+last birth.  
+10Doctor/nurse/LHV/ANM/midwife/other health personnel.  
+11Vaccinated with BCG, measles -containing vaccine (MCV)/MR/MMR/Measles, and 3 doses e ach of polio (excluding polio vaccine given at birth) and DPT or penta vaccine.  
+12Among children whose vaccination card was shown to the interviewer, percentage vaccinated with BCG, measles -containing vaccine (MCV)/MR/MMR/Measles, and 3 
+doses each of polio  (excluding polio vaccine given at birth) and DPT or penta vaccine.  
+13Not including polio vaccination given at birth.  
+14Since rotavirus is not being provided across all states and districts, the levels should not be compared.  
+ 
+  
+10 
+ 
+ North Goa , Goa - Key Indicators  
+Indicators  NFHS -5 
+(2019 -20) NFHS -4 
+(2015 -16) 
+Child Feeding Practices and Nutritional Status of Children  Total  Total  
+67. Children under age 3 years breastfed within one hour of birth15 (%) 61.1  82.8  
+68. Children under age 6 months exclusively breastfed16 (%) * * 
+69. Children age 6 -8 months receiving solid or semi -solid food and breastmilk16 (%) * * 
+70. Breastfeeding children age 6 -23 months receiving an adequate diet16, 17  (%) 26.9  (8.5) 
+71. Non -breastfeeding children age 6 -23 months receiving an adequate diet16, 17 (%) * * 
+72. Total children age 6 -23 months receiving an adequate diet16, 17  (%) 25.8  11.9  
+73. Children under 5 years who are stunted (height -for-age)18 (%) 24.2  21.4  
+74. Children under 5 years who are wasted (weight -for-height)18 (%) 17.7  17.5  
+75. Children under 5 years who are severely wasted (weight -for-height)19 (%) 7.3  7.2  
+76. Children under 5 years who are underweight (weight -for-age)18 (%) 25.8  23.8  
+77. Children under 5 years who are overweight (weight -for-height)20 (%) 2.7  3.9  
+Nutritional Status of Women  (age 15 -49 years)      
+78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%) 14.1  15.9  
+79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%) 37.2  34.6  
+80. Women who have high risk waist -to-hip ratio (≥0.85) (%)  52.3  na 
+Anaemia among Children and Women      
+81. Children age 6 -59 months who are anaemic (<11.0 g/dl)22 (%) 55.2  48.5  
+82. Non -pregnant women age 15 -49 years who are anaemic (<12.0 g/dl)22 (%) 40.2  33.2  
+83. Pregnant women age 15 -49 years who are anaemic (<11.0 g/dl)22 (%) * * 
+84. All women age 15 -49 years who are anaemic22 (%) 40.0  33.0  
+85. All women age 15 -19 years who are anaemic22 (%)  46.2  32.8  
+Blood Sugar Level among Adults ( age 15 years and above )     
+Women      
+86. Blood sugar level - high (141 -160 mg/dl)23 (%) 7.9  na 
+87. Blood sugar level - very high (>160 mg/dl)23 (%) 11.0  na 
+88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%) 20.6  na 
+Men     
+89. Blood sugar level - high (141 -160 mg/dl)23 (%) 9.7  na 
+90. Blood sugar level - very high (>160 mg/dl)23 (%) 13.1  na 
+91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar  level23 (%) 24.9  na 
+Hypertension among Adults ( age 15 years and above )     
+Women      
+92. Mildly elevated blood pressure (Systolic 140 -159 mm of Hg and/or Diastolic 90 -99 mm of Hg) (%)  11.0  na 
+93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%)  4.1  na 
+94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control 
+blood pressure (%)  27.3  na 
+Men     
+95. Mildly elevated blood pressure (Systolic 140 -159 mm of Hg and/or Diastolic 90 -99 mm of Hg) (%)  15.8  na 
+96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%)  5.6  na 
+97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control 
+blood pressure (%)  28.3  na 
+Screening for Cancer among Women  (age 30 -49 years)      
+  98. Ever undergone a screening test for cervical cancer (%)  1.4  na 
+  99. Ever undergone a breast examination for breast cancer (%)  1.9  na 
+100. Ever undergone an oral cavity examination for oral cancer (%)  0.9  na 
+Tobacco Use and Alcohol Consumption among Adults (age 15 years and above)      
+101. Women age 15 years and above who use any kind of tobacco (%)  2.7  na 
+102. Men age 15 years and above who use any kind of tobacco (%)  19.2  na 
+103. Women age 15 years and above who consume alcohol (%)  4.4  na 
+104. Men age 15 years and above who consume alcohol (%)  33.8  na 
+ 
+15Based on the last child born in the 3 years before the survey.  
+16Based on the youngest child living with the mother.   
+17Breastfed children receiving 4 or more food groups and a minimum meal frequency, non -breastfed children fed with a minimum of 3 Infant  and Young Child Feeding 
+Practices (fed with other milk or milk products at least twice a day, a minimum meal frequency that is, receiving solid or se mi-solid food at least twice a day for breastfed 
+infants 6 -8 months and at least three times a day for bre astfed children 9 -23 months, and solid or semi -solid foods from at least four food groups not including the milk or 
+milk products food group).  
+18Below -2 standard deviations, based on the WHO standard.  
+19Below -3 standard deviations, based on the WHO sta ndard.  
+20Above +2 standard deviations, based on the WHO standard.  
+21Excludes pregnant women and women with a birth in the preceding 2 months.  
+22Haemoglobin in grams per decilitre (g/dl). Among children, prevalence is adjusted for altitude. Among women, pre valence is adjusted for altitude and for smoking status, if 
+known. As NFHS uses the capillary blood for estimation of anaemia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
+23Random blood sugar measurement.  
+11 
+ NOTES  
+ 
+12Ministry of Health and Family Welfare
+National Family Health Survey - 5 
+2019 -20  
+ 
+International Institute for Population Sciences  
+(Deemed University)
+District Fact Sheet 
+South Goa  
+Goa  
+ 
+ Introduction  
+The National Family Health Survey 2019 -20 (NFHS -5), the fifth in the NFHS series, provides information on 
+population, health, and nutrition for India and each state/union  territory (UT). Like NFHS -4, NFHS -5 also 
+provides district -level estimates for many important indicators.  
+The contents of NFHS -5 are similar to NFHS -4 to allow comparisons over time. However, NFHS -5 includes 
+some new topics, such as preschool education, d isability, access to a toilet facility, death registration, bathing 
+practices during menstruation , and methods and reasons for abortion.  The scope of clinical, anthropometric, 
+and biochemical testing (CAB) has also been expanded to include measurement of w aist and hip 
+circumferences, and the age range for the measurement of blood pressure and blood glucose has been 
+expanded. However, HIV testing has been dropped. The NFHS -5 sample has been designed to provide 
+national, state/union territory (UT) , and distri ct level estimates of various indicators covered in the survey. 
+However, estimates of indicators of sexual behaviour; husband’s background and woman’s work; HIV/AIDS 
+knowledge, attitudes and behaviour; and domestic violence are available only at the state/ union territory (UT) 
+and national level.  
+As in the earlier rounds, the Ministry of Health and Family Welfare, Government of India, designated  the 
+International Institute for Population Sciences, Mumbai, as the nodal agency to conduct NFHS -5.  The main 
+objective of each successive round of the NFHS has been to provide high -quality data on health and family 
+welfare and emerging issues in this area. NFHS -5 data will be useful in setting benchmarks and examining 
+the progress the health sector has made over time . Besides providing evidence for the effectiveness of 
+ongoing programmes, the data from NFHS -5 help in identifying the need for new programmes with an area 
+specific focus and identifying groups that are most in need of essential services.  
+Four Survey Schedules - Household, Woman’s, Man’s, and Biomarker - were canvassed in local languages 
+using Computer Assisted Personal Interviewing (CAPI). In the Household Schedule, information was 
+collected on all usual members of the household and visito rs who stayed in the household the previous night, 
+as well as socio -economic characteristics of the household; water, sanitation, and hygiene; health insurance 
+coverage; disabilities; land ownership; number of deaths in the household in the three years pre ceding the 
+survey; and the ownership and use of mosquito nets. The Woman’s Schedule covered a wide variety of 
+topics, including the woman’s characteristics, marriage, fertility, contraception, children’s immunizations and 
+healthcare, nutrition, reproductiv e health, sexual behaviour, HIV/AIDS, women’s empowerment, and 
+domestic violence. The Man’s Schedule covered the man’s characteristics, marriage, his number of children, 
+contraception, fertility preferences, nutrition, sexual behaviour, health issues, atti tudes towards gender roles, 
+and HIV/AIDS. The Biomarker Schedule covered measurements of height, weight, and haemoglobin levels 
+for children;  measurements of height, weight, waist and hip circumference, and haemoglobin levels for 
+women age 15 -49 years and men age 15 -54 years; and blood pressure and random blood glucose levels for 
+women and men age 15 years and over. In addition, women and men were requested to provide a few 
+additional drops of blood from a finger prick for laboratory testing for HbA1c, mala ria parasites, and Vitamin 
+D3. 
+Readers should be cautious while interpreting and comparing the trends as some States/UTs may have 
+smaller sample size. Moreover, at the time of survey, Ayushman Bharat AB -PMJAY and Pradhan Mantri 
+Surakshit Matritva  Abhiyan (PMSMA) were not fully rolled out and hence, their coverage may not have been 
+factored in the results of indicator 12 (percentage of households with any usual member covered under a 
+health insurance/financing scheme) and indicator 33 (percentage o f mothers who received 4 or more 
+antenatal care check -ups).  
+This fact sheet provides information on key indicators and trends for  South  Goa. NFHS -5 fieldwork for Goa 
+was conducted from 30 August, 2019 to 26 November, 2019 by Nielsen India Pvt. Ltd . In South Goa, 
+information was gathered from 931 households, 1,055 women, and 165  men.  
+ 
+14 
+ 
+ South  Goa, Goa - Key Indicators  
+Indicators  NFHS -5 
+(2019 -20) NFHS -4 
+(2015 -16) 
+Population and Household Profile   Total  Total  
+1. Female population age  6 years and above who ever attended school (%)  88.2  82.8  
+2. Population below age 15 years (%)  18.9  24.4  
+3. Sex ratio of the total population (females per 1,000 males)  1,040  1,000  
+4. Sex ratio at birth for children born in the last five years (females per 1,000 males)  819  970  
+5. Children under age 5 years whose birth was registered with the civil authority (%)  100.0  98.4  
+6. Deaths in the last 3 years registered with the civil authority (%)  100.0  na 
+7. Population living in households with electricity (%)  100.0  100.0  
+8. Population living in households with an improved drinking -water source1 (%) 99.0  96.6  
+9. Population living in households that use an improved sanitation facility2 (%) 88.2  75.1  
+10. Households using clean fuel for cooking3 (%) 96.2  86.4  
+11. Households using iodized salt (%)  96.9  97.4  
+12. Households with any usual member covered under a health insurance/financing scheme (%)  67.7  7.6  
+13. Children age 5 years who attended pre -primary school during the school year 2019 -20 (%)  20.5  na 
+Characteristics of Women  (age 15 -49 years )      
+14. Women who are literate4 (%) 93.8  na 
+15. Women with 10 or more years of schooling (%)  70.9  53.0  
+Marriage and Fertility      
+16. Women age 20 -24 years married before age 18 years (%)  3.9  9.6  
+17. Births in the 5 years preceding the survey that are third or higher order (%)  1.4  1.7  
+18. Women age 15 -19 years who were already mothers or pregnant at the time of the survey (%)  2.8  4.1  
+19. Women age 15 -24 years who use hygienic methods of protection during their menstrual period5 (%) 96.2  88.1  
+Current Use of Family Planning Methods (currently married women age 15 –49 years)      
+20. Any method6 (%) 75.0  34.6  
+21. Any modern method6 (%) 67.8  31.7  
+22. Female sterilization (%)  40.0  23.7  
+23. Male sterilization (%)  0.0  0.0  
+24. IUD/PPIUD (%)  2.5  1.1  
+25. Pill (%)  1.0  0.0  
+26. Condom (%)  23.5  6.8  
+27. Injectables (%)  0.0  0.0  
+Unmet Need for Family Planning (currently married women age 15 –49 years)      
+28. Total unmet need7 (%) 7.2  16.1  
+29. Unmet need for spacing7 (%) 3.3  6.8  
+Quality of Family Planning Services    
+30. Health worker ever talked to female non -users about family planning (%)  19.7  36.2  
+31. Current users ever told about side effects of current method8 (%) 89.4  (66.8)  
+ 
+Note: Major indicators are highlighted in grey.  
+ 
+LHV = Lady health visitor, ANM = Auxiliary nurse midwife  
+na = Not available  
+( ) Based on 25 -49 unweighted cases  
+* Percentage not shown; based on fewer than 25 unweighted cases  
+ 
+1Piped water into dwelling/yard/plot, piped to neighbour, public tap/standpipe, tube well or borehole, protected dug well, pro tected spring, rainwater, tanker truck, cart w ith 
+small tank, bottled water, community RO plant.  
+2Flush to piped sewer system, flush to septic tank, flush to pit latrine, flush to don't know where, ventilated improved pit (VIP)/biog as latrine, pit latrine with slab, twin 
+pit/composting toilet, which is not shared with any other household.  This indicator does no t denote access to toilet facility completely.  
+3Electricity, LPG/natural gas, biogas.  
+4Refers to women who completed standard 9 or higher and women who can read a whole sentence or part of a sentence.  
+5Locally prepared napkins, sanitary napkins, tampons, and menstrual cups are considered to be hygienic methods of protection.  
+6Any method includes other methods that are not shown separately; Any modern method includes other modern methods that are not  shown separately.  
+7Unmet need for family planning refers  to fecund women who are not using contraception but who wish to postpone the next birth (spacing) or stop childbearing altoge ther 
+(limiting). Specifically, women are considered to have unmet need for spacing if they are:  
+   · At risk of becoming pregnant,  not using contraception, and either do not want to become pregnant within the next two years, or are unsure if or wh en they want to 
+become pregnant.  
+   · Pregnant with a mistimed pregnancy.  
+   · Postpartum amenorrhoeic for up to two years following a mistimed birth and not using contraception.  
+   Women are considered to have unmet need for limiting if they are:  
+   · At risk of becoming pregnant, not using contraception, and want no (more) chi ldren.  
+   · Pregnant with an unwanted pregnancy.  
+   · Postpartum amenorrhoeic for up to two years following an unwanted birth and not using contraception.  
+  Women who are classified as infecund have no unmet need because they are not at risk of becoming pr egnant. Unmet need for family planning  is the sum of unmet need 
+for spacing plus unmet need for limiting.  
+8Based on current users of female sterilization, IUD/PPIUD, injectables, and pills who started using that method in the past 5  years.  
+  
+15 
+ 
+ South Goa, Goa - Key Indicators  
+Indicators  NFHS -5 
+(2019 -20) NFHS -4 
+(2015 -16) 
+Maternal and Child Health  Total  Total  
+Maternity Care (for last birth in the 5 years before the survey)    
+32. Mothers who had an antenatal check -up in the first trimester (%)  62.7  71.9  
+33. Mothers who had at least 4 antenatal care visits (%)  96.0  81.5  
+34. Mothers whose last birth was protected against neonatal tetanus9 (%) 97.8  90.9  
+35. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%)  92.2  35.3  
+36. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%)  59.1  14.2  
+37. Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%)  99.5  95.9  
+38. Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 
+days of delivery (%)  99.5  88.5  
+39. Average out -of-pocket expenditure per delivery in a public health facility (Rs.)  3,768  1,841  
+40. Children born at home who were taken to a health facility for a check -up within 24 hours of birth (%)  * * 
+41. Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2 
+days of delivery (%)  98.0  na 
+Delivery Care (for births in the 5 years  before the survey)      
+42. Institutional births (%)  100.0  94.5  
+43. Institutional births in public facility (%)  52.0  56.7  
+44. Home births that were conducted by skilled health personnel10 (%) 0.0  2.3  
+45. Births attended by skilled health personnel10 (%) 100.0  95.4  
+46. Births delivered by caesarean section (%)  39.4  29.3  
+47. Births in a private health facility that were delivered by caesarean section (%)  54.9  54.7  
+48. Births in a public health facility that were delivered by caesarean section (%)  25.2  15.2  
+Child Vaccinations  and Vitamin A Supplementation      
+49. Children age 12 -23 months fully vaccinated based on information from either vaccination card or  
+mother's recall11 (%) * 89.5  
+50. Children age 12 -23 months fully  vaccinated based on information from vaccination card only12 (%) * (95.0)  
+51. Children age 12 -23 months who have received BCG (%)  * 100.0  
+52. Children age 12 -23 months who have received 3 doses of polio vaccine13 (%) * 95.0  
+53. Children age 12 -23 months who have received 3 doses of penta or DPT vaccine (%)  * 92.0  
+54. Children age 12 -23 months who have received the first dose of measles -containing vaccine (MCV) (%)  * 98.9  
+55. Children age 24 -35 months who have received a s econd dose of measles -containing vaccine (MCV) (%)  * na 
+56. Children age 12 -23 months who have received 3 doses of rotavirus vaccine14 (%) * na 
+57. Children age 12 -23 months who have received 3 doses of penta or hepatitis B vaccine (%)  * 87.2  
+58. Children age 9 -35 months who received a vitamin A dose in the last 6 months (%)  88.0  90.2  
+59. Children age 12 -23 months who received most of their vaccinations in a public health facility (%)  * 78.9  
+60. Children age 12 -23 months who received most of their vaccinations in a private health facility (%)  * 21.1  
+Treatment of Childhood Diseases (children under age 5 years)    
+61. Prevalence of diarrhoea in the 2 weeks preceding the survey (%)  2.5  1.3  
+62. Children with diarrhoea in the 2 weeks preceding  the survey who received oral rehydration salts (ORS) (%)  * * 
+63. Children with diarrhoea in the 2 weeks preceding the survey who received zinc (%)  * * 
+64. Children with diarrhoea in the 2 weeks preceding the survey taken to a health facility or health provider (%)  * * 
+65. Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%)  0.0  1.4  
+66. Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or health 
+provider (%)  * * 
+ 
+9Includes mothers with two injections during the pregnancy for their last birth, or two or more injections (the last within 3 years of the last live birth), or three or more 
+injections (the last within 5 years of the last birth), or four or more injections (the last within 10 years of the last live birth), or five or more injections at any time prior to the 
+last birth.  
+10Doctor/nurse/LHV/ANM/midwife/other health personnel.  
+11Vaccinated with BCG, measles -containing vaccine (MCV)/MR/MMR/Measles, and 3 doses e ach of polio (excluding polio vaccine given at birth) and DPT or penta vaccine.  
+12Among children whose vaccination card was shown to the interviewer, percentage vaccinated with BCG, measles -containing vaccine (MCV)/MR/MMR/Measles, and 3 
+doses each of polio  (excluding polio vaccine given at birth) and DPT or penta vaccine.  
+13Not including polio vaccination given at birth.  
+14Since rotavirus is not being provided across all states and districts, the levels should not be compared.  
+ 
+  
+16 
+ 
+ South Goa, Goa - Key Indicators  
+Indicators  NFHS -5 
+(2019 -20) NFHS -4 
+(2015 -16) 
+Child Feeding Practices and Nutritional Status of Children  Total  Total  
+67. Children under age 3 years breastfed within one hour of birth15 (%) 62.6  58.9  
+68. Children under age 6 months exclusively breastfed16 (%) * * 
+69. Children age 6 -8 months receiving solid or semi -solid food and breastmilk16 (%) * * 
+70. Breastfeeding children age 6 -23 months receiving an adequate diet16, 17  (%) (8.9) (9.7) 
+71. Non -breastfeeding children age 6 -23 months receiving an adequate diet16, 17 (%) * * 
+72. Total children age 6 -23 months receiving an adequate diet16, 17  (%) (13.4)  8.5  
+73. Children under 5 years who are stunted (height -for-age)18 (%) 28.3  18.3  
+74. Children under 5 years who are wasted (weight -for-height)18 (%) 21.4  27.7  
+75. Children under 5 years who are severely wasted (weight -for-height)19 (%) 8.0  12.5  
+76. Children under 5 years who are underweight (weight -for-age)18 (%) 21.0  23.9  
+77. Children under 5 years who are overweight  (weight -for-height)20 (%) 2.8  3.5  
+Nutritional Status of Women  (age 15 -49 years)      
+78. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)21 (%) 13.5  12.9  
+79. Women who are overweight or obese (BMI ≥25.0 kg/m2)21 (%) 34.6  31.8  
+80. Women who have high risk waist -to-hip ratio (≥0.85) (%)  49.5  na 
+Anaemia among Children and Women      
+81. Children age 6 -59 months who are anaemic (<11.0 g/dl)22 (%) 50.0  48.1  
+82. Non -pregnant women age 15 -49 years who are anaemic (<12.0 g/dl)22 (%) 37.3  28.6  
+83. Pregnant women age 15 -49 years who are anaemic (<11.0 g/dl)22 (%) * * 
+84. All women age 15 -49 years who are anaemic22 (%) 37.6  28.7  
+85. All women age 15 -19 years who are anaemic22 (%)  42.5  27.6  
+Blood Sugar Level among Adults ( age 15 years and above )     
+Women      
+86. Blood sugar level - high (141 -160 mg/dl)23 (%) 9.4  na 
+87. Blood sugar level - very high (>160 mg/dl)23 (%) 7.9  na 
+88. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level23 (%) 21.1  na 
+Men     
+89. Blood sugar level - high (141 -160 mg/dl)23 (%) 11.1  na 
+90. Blood sugar level - very high (>160 mg/dl)23 (%) 9.8  na 
+91. Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar  level23 (%) 23.2  na 
+Hypertension among Adults ( age 15 years and above )     
+Women      
+92. Mildly elevated blood pressure (Systolic 140 -159 mm of Hg and/or Diastolic 90 -99 mm of Hg) (%)  13.6  na 
+93. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%)  3.0  na 
+94. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control 
+blood pressure (%)  27.7  na 
+Men     
+95. Mildly elevated blood pressure (Systolic 140 -159 mm of Hg and/or Diastolic 90 -99 mm of Hg) (%)  13.5  na 
+96. Moderately or severely elevated blood pressure (Systolic ≥160mm of Hg and/or Diastolic ≥100mm of Hg) (%)  3.7  na 
+97. Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to control 
+blood pressure (%)  25.0  na 
+Screening for Cancer among Women  (age 30 -49 years)      
+  98. Ever undergone a screening test for cervical cancer (%)  0.8  na 
+  99. Ever undergone a breast examination for breast cancer (%)  0.4  na 
+100. Ever undergone an oral cavity examination for oral cancer (%)  0.1  na 
+Tobacco Use and Alcohol Consumption among Adults (age 15 years and above)     
+101. Women age 15 years and above who use any kind of tobacco (%)  2.5  na 
+102. Men age 15 years and above who use any kind of tobacco (%)  16.9  na 
+103. Women age 15 years and above who consume alcohol (%)  7.0  na 
+104. Men age 15 years and above who consume alcohol (%)  41.1  na 
+ 
+15Based on the last child born in the 3 years before the survey.  
+16Based on the youngest child living with the mother.   
+17Breastfed children receiving 4 or more food groups and a minimum meal frequency, non -breastfed children fed with a minimum of 3 Infant  and Young Child Feeding 
+Practices (fed with other milk or milk products at least twice a day, a minimum meal frequency that is, receiving solid or se mi-solid food at least twice a day for breastfed 
+infants 6 -8 months and at least three times a day for bre astfed children 9 -23 months, and solid or semi -solid foods from at least four food groups not including the milk or 
+milk products food group).  
+18Below -2 standard deviations, based on the WHO standard.  
+19Below -3 standard deviations, based on the WHO sta ndard.  
+20Above +2 standard deviations, based on the WHO standard.  
+21Excludes pregnant women and women with a birth in the preceding 2 months.  
+22Haemoglobin in grams per decilitre (g/dl). Among children, prevalence is adjusted for altitude. Among women, pre valence is adjusted for altitude and for smoking status, if 
+known. As NFHS uses the capillary blood for estimation of anaemia, the results of NFHS -5 need not be compared with other surveys using venous blood.  
+23Random blood sugar measurement.  
+17 
+ NOTES  
+ 
+18 
+ NOTES  
+ 
+19INTERNATIONAL INSTITUTE FOR POPULATION SCIENCES  
+Vision:  “To position IIPS as a premier teaching and research institution in population sciences responsive to emerging 
+national and global needs based on values of inclusion, s ensitivity and rights protection.”  
+Mission:  “The Institute will strive to be a centre of excellence on population, health and development issues through high 
+quality education, teaching and research. This will be achieved by (a) creating competent profes sionals, (b) 
+generating and disseminating scientific knowledge and evidence, (c) collaboration and exchange of knowledge, and 
+(d) advocacy and awareness.”  
+For additional information, please contact:  
+Director/Principal Investigator (NFHS -5) 
+International Institute for Population Sciences  
+Govandi Station Road, Deonar  
+Mumbai - 400 088 (India)  
+Telephone: 022 - 4237 2467 
+Email: nfhs52017@ gmail.com , director@iips.net  
+Website : http://www. iipsindia.ac.in  
+      http://www. rchiips.org/nfhs/index.shtml  
+Director General (Stat.)  
+Ministry of Health and Family Welfare  
+Government of India  
+Indian Red Cross Society Building  
+Statistics Division   
+New Delhi 110 00 1 (India)  
+Telephone: 011 - 23736979  or 23350003  
+Email: rajena@nic.in  
+Chief  Director  (Stat.)  
+Ministry of Health and Family Welfare  
+Government of India  
+Indian Red Cross Society Building  
+Statistics Division   
+New Delhi 110 00 1 (Indi a) 
+Telephone: 011 - 23736983  
+Email: nivedita.g@gov.in  
+Website: http: //www.mohfw. gov.in 
+Technical assistance and  additional  funding for NFHS -5 was provided by the USAID -supported Demographic and Health Surveys (DHS) Program , 
+ICF, USA . The contents of this publication do not necessarily reflect the views of USAID or the United States Government.   
+The opinions in this publication do not necessarily reflect the views of the funding agencies.  
+For additional information on NFHS -5, visit http://www.iipsindia.ac.in  or http://www.mohfw. gov.in 

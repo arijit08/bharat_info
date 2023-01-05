@@ -6,6 +6,7 @@ import os # os package
 import collection_lib as cl
 import preproc as pp
 
+
 base_path = os.path.dirname(os.path.realpath(__file__))
 settings_path = os.path.join(base_path,"settings")
 
@@ -13,6 +14,8 @@ settings = cl.get_settings(os.path.join(settings_path,"paths.txt"))
 
 resource_path = settings["resource_path"][0]
 states_path = settings["states_path"][0]
+if not os.path.isdir(os.path.join(base_path,resource_path,states_path)):
+    os.makedirs(os.path.join(base_path,resource_path,states_path))
 
 pdf_paths = cl.get_pdfs(os.path.join(base_path,resource_path,states_path))
 
@@ -37,7 +40,7 @@ if len(pdf_paths)==0:
     for i in range(first_index,count):
         value = cl.get_attr(states[i],"value")
         state_link = cl.absolutise_url(base_url=urlpath,rel_url=value)
-        #cl.dl(state_link,base_path+resource_path+states_path)
+        cl.dl(state_link, os.path.join(base_path,resource_path,states_path))
     #ALL DOCUMENTS DOWNLOADED
     pdf_paths = cl.get_pdfs(os.path.join(base_path,resource_path,states_path))
 else:
