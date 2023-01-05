@@ -21,7 +21,7 @@ def load_page(urlpath):
 
 #wait for maximum t seconds until a webpage loads by polling every n seconds to check if an x element is clickable
 def wait_until(timeout_s, every_s, idname):
-    wait = WebDriverWait(driver,timeout=timeout_s,poll_frequency=every_s,ignored_exceptions=[NoSuchElementException, ElementNotSelectableException, ElementNotVisibleException])
+    wait = WebDriverWait(driver,timeout=timeout_s,poll_frequency=every_s,ignored_exceptions=[NoSuchElementException, ElementNotSelectableException, ElementNotVisibleException, TimeoutException])
     wait.until(EC.element_to_be_clickable(((By.ID,idname))))
 
 #get current URL that the browser is in
@@ -49,6 +49,14 @@ def get_elements(idname,tagname):
 
 def dl(state_link, urlpath):
     return wget.download(state_link, urlpath)
+
+def get_settings(settings_path):
+    settings = {}
+    for line in open(settings_path,"r"):
+        key,val = line.strip().split(" ",1)
+        settings[key] = [val]
+    return settings
+        
 
 def get_pdfs(folder_path):
     pdfs = []

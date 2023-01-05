@@ -4,29 +4,39 @@ from pathlib import Path
 import pytesseract
 from pdf2image import convert_from_path
 from PIL import Image
+import os
 
-if platform.system() == "Windows":
- 
-    pytesseract.pytesseract.tesseract_cmd = (
-        r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
-    )
- 
-    # Windows also needs poppler_exe
-    path_to_poppler_exe = Path(r"C:\\Users\\08arijit\\Documents\\Libraries\\poppler-23.01.0")
-     
-    # Put our output files in a sane place...
-    out_directory = Path(r"~\Desktop").expanduser()
-else:
-    out_directory = Path("~").expanduser()
+settings = {}
+poppler_path = ""
+output_path = ""
+base_path = os.path.dirname(os.path.realpath(__file__))
 
-PDF_file = Path(pdf_path)
- 
-# Store all the pages of the PDF in a variable
-image_file_list = []
- 
-text_file = out_directory / Path("out_text.txt")
- 
-def main():
+def set_settings(settings1):
+    settings = settings1
+    if platform.system() == "Windows":
+        pytesseract.pytesseract.tesseract_cmd = (
+            settings["tesseract_path"][0]
+        )
+
+        global poppler_path,output_path
+        # Windows also needs poppler_exe
+        poppler_path = Path(settings["poppler_path"][0])     
+        
+        # Put our output files in a sane place...
+        output_path = Path(settings["output_path"][0])
+    else:
+        output_path = Path(settings["output_path"][0])
+        # Store all the pages of the PDF in a variable
+
+
+def read_pdf(pdf_path):
+
+    image_file_list = []
+
+    pdf_file = Path(pdf_path)
+    pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
+    text_file = os.path.join(base_path, output_path, pdf_name+".txt")
+
     ''' Main execution point of the program'''
     with TemporaryDirectory() as tempdir:
         # Create a temporary directory to hold our temporary images.
@@ -37,10 +47,10 @@ def main():
  
         if platform.system() == "Windows":
             pdf_pages = convert_from_path(
-                PDF_file, 500, poppler_path=path_to_poppler_exe
+                pdf_file, 500, poppler_path=poppler_path
             )
         else:
-            pdf_pages = convert_from_path(PDF_file, 500)
+            pdf_pages = convert_from_path(pdf_file, 500)
         # Read in the PDF file at 500 DPI
  
         # Iterate through all the pages stored above
@@ -65,8 +75,9 @@ def main():
         """
         Part #2 - Recognizing text from the images using OCR
         """
- 
-        with open(text_file, "a") as output_file:
+        if(not os.path.isdir(os.path.join(base_path,output_path))):
+            os.makedirs(os.path.join(base_path,output_path))
+        with open(text_file, "a+") as output_file:
             # Open the file in append mode so that
             # All contents of all images are added to the same file
  
@@ -102,9 +113,5 @@ def main():
         # At the end of the with .. tempdir block, the
         # TemporaryDirectory() we're using gets removed!       
     # End of main function!
-     
-if __name__ == "__main__":
-      # We only want to run this if it's directly executed!
-    main()
 
 
