@@ -7,38 +7,41 @@ import collection_lib as cl
 import preproc as pp
 
 base_path = os.path.dirname(os.path.realpath(__file__))
-resource_path = "/resource"
-states_path = "/states"
+settings_path = os.path.join(base_path,"settings")
 
+settings = cl.get_settings(os.path.join(settings_path,"paths.txt"))
 
-#CODE TO GET DOCUMENTS OF EACH STATE FROM NFHS 5
-urlpath = "http://rchiips.org/nfhs/Factsheet_Compendium_NFHS-5.shtml"
+resource_path = settings["resource_path"][0]
+states_path = settings["states_path"][0]
 
-cl.load_page(urlpath)
+pdf_paths = cl.get_pdfs(os.path.join(base_path,resource_path,states_path))
 
-first_index=1 #0 if first element is to be considered, else 1
-idname = "state" #dropdown containing indian states
-tagname = "option"
+if len(pdf_paths)==0:
+    #CODE TO GET DOCUMENTS OF EACH STATE FROM NFHS 5
+    urlpath = "http://rchiips.org/nfhs/Factsheet_Compendium_NFHS-5.shtml"
 
-cl.wait_until(5,1,idname)
+    cl.load_page(urlpath)
 
-states = cl.get_elements(idname,tagname)
-count = len(states)
+    first_index=1 #0 if first element is to be considered, else 1
+    idname = "state" #dropdown containing indian states
+    tagname = "option"
 
-pdf_paths = []
+    cl.wait_until(5,1,idname)
 
-#get url in value attribute of option tag of select element, and download it
-for i in range(first_index,count):
-    value = cl.get_attr(states[i],"value")
-    state_link = cl.absolutise_url(base_url=urlpath,rel_url=value)
-    #cl.dl(state_link,base_path+resource_path+states_path)
-#ALL DOCUMENTS DOWNLOADED
+    states = cl.get_elements(idname,tagname)
+    count = len(states)
 
-pdf_paths = cl.get_pdfs(base_path+resource_path+states_path)
+    pdf_paths = []
 
-#PREPROCESS DATA OF PDFS
-for pdf_path in pdf_paths:
-    pp.read_pdf(pdf_path)
-
-
-#edit
+    #get url in value attribute of option tag of select element, and download it
+    for i in range(first_index,count):
+        value = cl.get_attr(states[i],"value")
+        state_link = cl.absolutise_url(base_url=urlpath,rel_url=value)
+        #cl.dl(state_link,base_path+resource_path+states_path)
+    #ALL DOCUMENTS DOWNLOADED
+    pdf_paths = cl.get_pdfs(os.path.join(base_path,resource_path,states_path))
+else:
+    pp.set_settings(settings)
+    #PREPROCESS DATA OF PDFS
+    for pdf_path in pdf_paths:
+        pp.read_pdf(pdf_path)
