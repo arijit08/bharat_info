@@ -12,7 +12,7 @@ import wget
 
 DRIVER_PATH = '/path/to/chromedriver'
 options = Options()
-options.headless = False #Do you want to see the browser window while scraping (True) or no (False)
+options.headless = True #Do you want to see the browser window while scraping (True) or no (False)
 driver = webdriver.Chrome(options=options, executable_path=DRIVER_PATH)
 
 #navigate browser to a url

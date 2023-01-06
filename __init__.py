@@ -47,4 +47,4 @@ else:
     pp.set_settings(settings)
     #PREPROCESS DATA OF PDFS
     for pdf_path in pdf_paths:
-        pp.read_pdf(pdf_path)
+        pp.read_pdf_table(pdf_path)
