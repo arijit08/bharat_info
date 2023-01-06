@@ -5,6 +5,7 @@
 import os # os package
 import collection_lib as cl
 import preproc as pp
+import pandas as pd
 
 
 base_path = os.path.dirname(os.path.realpath(__file__))
@@ -14,15 +15,20 @@ settings = cl.get_settings(os.path.join(settings_path,"paths.txt"))
 
 resource_path = settings["resource_path"][0]
 states_path = settings["states_path"][0]
-if not os.path.isdir(os.path.join(base_path,resource_path,states_path)):
-    os.makedirs(os.path.join(base_path,resource_path,states_path))
+output_path = settings["output_path"][0]
+
+pp.makedirs(os.path.join(base_path,output_path))
+
+table_dfs = {} #dict storing all tables of all states as dataframes
 
 pdf_paths = cl.get_pdfs(os.path.join(base_path,resource_path,states_path))
+output_folders = list(os.scandir(os.path.join(base_path,output_path)))
 
 if len(pdf_paths)==0:
     #CODE TO GET DOCUMENTS OF EACH STATE FROM NFHS 5
     urlpath = "http://rchiips.org/nfhs/Factsheet_Compendium_NFHS-5.shtml"
 
+    cl.load_browser()
     cl.load_page(urlpath)
 
     first_index=1 #0 if first element is to be considered, else 1
@@ -43,8 +49,19 @@ if len(pdf_paths)==0:
         cl.dl(state_link, os.path.join(base_path,resource_path,states_path))
     #ALL DOCUMENTS DOWNLOADED
     pdf_paths = cl.get_pdfs(os.path.join(base_path,resource_path,states_path))
-else:
+elif len(output_folders)==0: #if there are no folders inside output folder
     pp.set_settings(settings)
     #PREPROCESS DATA OF PDFS
     for pdf_path in pdf_paths:
         pp.read_pdf_table(pdf_path)
+else: #if pdfs are downloaded and also there are folders in output folder i.e. csvs extracted
+    pp.set_settings(settings)
+    for folder in output_folders:
+        tables = os.scandir(folder)
+        for table in tables:
+            table_ext = os.path.splitext(os.path.basename(table))[1]
+            if table_ext == ".csv":
+                table_df = pp.load_csv(table.path)
+                table_dfs[folder.name].append(table_df)
+            #else read excel, etc.
+    #Now tables is ready for processing

@@ -7,12 +7,17 @@ from PIL import Image
 import os
 import PyPDF2
 import camelot
-import pandas
+import pandas as pd
+import re
+import logging
 
 settings = {}
 poppler_path = ""
 output_path = ""
+
 base_path = os.path.dirname(os.path.realpath(__file__))
+
+logging.basicConfig(filename="preproc_error.log", level=logging.ERROR)
 
 def set_settings(settings1):
     settings = settings1
@@ -61,7 +66,7 @@ def read_pdf_ocr(pdf_path):
             image_file_list.append(filename)
 
         makedirs(os.path.join(base_path,output_path))
-        
+
         with open(text_file, "a+") as output_file:
 
             for image_file in image_file_list:
@@ -94,3 +99,91 @@ def read_pdf_table(pdf_path):
     print("Extracted " + str(tables.n) + " tables from " + pdf_path + ", saving at " + pdf_output_path)
     makedirs(pdf_output_path)
     tables.export(os.path.join(pdf_output_path,"table.csv"), f="csv")
+
+def load_csv(csv_path):
+    table_dict = {}
+    with open(csv_path) as file:
+        seek = 1
+        if file.readline().find("Content") != -1: #check 1st line for word "content"
+            return None
+        else: #1st line does not have "content" => it is useful data
+            text = file.readlines() #read rest of the file
+            column=False
+            column_name = ""
+            forward = True
+            values = []
+            for line in text:
+                match = re.findall(r"^\d+[.]\s.*\n$",line)
+                if match:
+                    #it is a column
+                    match = match[0]
+                    if column:
+                        #next column found, save previous column + values
+                        length = len(values)
+                        if not forward: #if values preceded column name, save previous values with this column name
+                            column_name = match
+                        column_name = re.sub(r"^\d+[.]*\d*\s(.*)\s\n$",r"\g<1>",column_name) #pure text
+                        if length==4:
+                            #_5_U, _5_R, _5_T, _4_T
+                            table_dict[column_name + "_5U"] = values[0]
+                            table_dict[column_name + "_5R"] = values[1]
+                            table_dict[column_name + "_5T"] = values[2]
+                            table_dict[column_name + "_4T"] = values[3]
+                            values = []
+                        elif length==2:
+                            #_5_T, _4_T
+                            table_dict[column_name + "_5T"] = values[0]
+                            table_dict[column_name + "_4T"] = values[1]
+                            values = []
+                        column_name = match #update to new column name
+                    else:
+                        if not forward:
+                            #values have been found and this is first column
+                            column_name = match
+                        column_name = re.sub(r"^\d+[.]*\d*\s(.*)\s\n$",r"\g<1>",column_name)#pure text
+                        length = len(values)
+                        if length==4:
+                            #_5_U, _5_R, _5_T, _4_T
+                            table_dict[column_name + "_5U"] = values[0]
+                            table_dict[column_name + "_5R"] = values[1]
+                            table_dict[column_name + "_5T"] = values[2]
+                            table_dict[column_name + "_4T"] = values[3]
+                            values = []
+                        elif length==2:
+                            #_5_T, _4_T
+                            table_dict[column_name + "_5T"] = values[0]
+                            table_dict[column_name + "_4T"] = values[1]
+                            values = []
+                        column_name = match #update to new column name
+                        #we have found a column, get its pure text
+                        column = True
+                else:
+                    #it is not a column, is it a value?
+                    match = re.findall("^((\d+[.]*\d*)|(na)|([*]))\s*\n$",line)
+                    if match:
+                        match = match[0][0]
+                        #it is a value, does it follow a column or precede?
+                        if column == False or forward == False:
+                            #found value before any column, i.e. backwards
+                            forward = False
+                        values.append(match)
+                    else:
+                        #it is some other text, if forward, column are true and values aren't empty, save
+                        if forward and column and values:
+                            if length==4:
+                                #_5_U, _5_R, _5_T, _4_T
+                                table_dict[column_name + "_5U"] = values[0]
+                                table_dict[column_name + "_5R"] = values[1]
+                                table_dict[column_name + "_5T"] = values[2]
+                                table_dict[column_name + "_4T"] = values[3]
+                                values = []
+                            elif length==2:
+                                #_5_T, _4_T
+                                table_dict[column_name + "_5T"] = values[0]
+                                table_dict[column_name + "_4T"] = values[1]
+                                values = []
+                        else: #output error, verify later
+                            logging.error("File [" + file.name + "], line [" + line +
+                             "], forward=" + str(forward) + ", column=" + str(column) +
+                             ", values=" + str(values) + ", column_name [" + column_name + "]")
+    return pd.DataFrame(table_dict)

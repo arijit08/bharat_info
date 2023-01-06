@@ -13,7 +13,10 @@ import wget
 DRIVER_PATH = '/path/to/chromedriver'
 options = Options()
 options.headless = True #Do you want to see the browser window while scraping (True) or no (False)
-driver = webdriver.Chrome(options=options, executable_path=DRIVER_PATH)
+driver = None
+
+def load_browser():
+    webdriver.Chrome(options=options, executable_path=DRIVER_PATH)
 
 #navigate browser to a url
 def load_page(urlpath):
@@ -56,7 +59,13 @@ def get_settings(settings_path):
         key,val = line.strip().split(" ",1)
         settings[key] = [val]
     return settings
-        
+
+def is_empty(folder_path):
+    files_list = os.scandir(folder_path)
+    if len(files_list) == 0:
+        return True
+    else:
+        return False
 
 def get_pdfs(folder_path):
     pdfs = []
@@ -65,3 +74,6 @@ def get_pdfs(folder_path):
         if extension==".pdf":
             pdfs.append(filename.path)
     return pdfs
+
+def get_csvs(folder_path):
+    csvs = []
