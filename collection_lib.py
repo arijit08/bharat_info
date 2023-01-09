@@ -4,9 +4,9 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
-from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import *
+from selenium.common.exceptions import NoSuchElementException,ElementNotSelectableException,ElementNotVisibleException, TimeoutException
 import os
 import wget
 
@@ -61,7 +61,7 @@ def get_settings(settings_path):
     return settings
 
 def is_empty(folder_path):
-    files_list = os.scandir(folder_path)
+    files_list = list(os.scandir(folder_path))
     if len(files_list) == 0:
         return True
     else:
@@ -77,3 +77,25 @@ def get_pdfs(folder_path):
 
 def get_csvs(folder_path):
     csvs = []
+    folders_list = []
+    for file_name in recursive_folders(folder_path):
+        if os.path.isdir(file_name.path):
+            folders_list.append(file_name.path)
+            recursive_folders(file_name.path)
+            
+    for folder in folders_list:
+        for file_name in os.scandir(folder):
+            extension =  os.path.splitext(file_name)[1]
+            if extension == ".csv":
+                csvs.append(file_name)
+    return csvs
+
+def recursive_folders(folder_path):
+    return os.scandir(folder_path)
+
+def get_folders(folder_path, restrict_list):
+    folders = []
+    for item in os.scandir(folder_path):
+        if item.path not in restrict_list:
+            folders.append(item.path)
+    return folders

@@ -1,8 +1,7 @@
 #This programme collects, preprocesses, analyzes, visualises and models relevant data
 #Relevant data - Census, National Family Health Survey, etc. datasets
-#Developer - Arijit Bhagavatula
 
-import os # os package
+import os
 import collection_lib as cl
 import preproc as pp
 import pandas as pd
@@ -16,13 +15,16 @@ settings = cl.get_settings(os.path.join(settings_path,"paths.txt"))
 resource_path = settings["resource_path"][0]
 states_path = settings["states_path"][0]
 output_path = settings["output_path"][0]
+clean_output_path = settings["clean_output_path"][0]
+restrict_list = [base_path, resource_path,states_path, output_path,clean_output_path]
 
 pp.makedirs(os.path.join(base_path,output_path))
 
 table_dfs = {} #dict storing all tables of all states as dataframes
 
 pdf_paths = cl.get_pdfs(os.path.join(base_path,resource_path,states_path))
-output_folders = list(os.scandir(os.path.join(base_path,output_path)))
+output_folders = cl.get_folders(os.path.join(base_path,output_path),restrict_list)
+
 
 if len(pdf_paths)==0:
     #CODE TO GET DOCUMENTS OF EACH STATE FROM NFHS 5
@@ -57,11 +59,20 @@ elif len(output_folders)==0: #if there are no folders inside output folder
 else: #if pdfs are downloaded and also there are folders in output folder i.e. csvs extracted
     pp.set_settings(settings)
     for folder in output_folders:
+        folder_name = os.path.split(folder)[0]
+        table_dfs[folder_name] = []
         tables = os.scandir(folder)
         for table in tables:
             table_ext = os.path.splitext(os.path.basename(table))[1]
             if table_ext == ".csv":
-                table_df = pp.load_csv(table.path)
-                table_dfs[folder.name].append(table_df)
-            #else read excel, etc.
-    #Now tables is ready for processing
+                table_df= pp.load_csv(table.path)
+                if table_df is not None:
+                    table_dfs[folder_name].append(table_df)
+    #Now tables are ready for processing
+    for folder in table_dfs:
+        clean_path = os.path.join(clean_output_path, folder)
+        pp.makedirs(clean_path)
+        state_table = pd.DataFrame()
+        pd.concat(list(table_dfs), axis=1)
+        state_table.to_csv(os.path.join(clean_path,"table.csv"))
+print("end")

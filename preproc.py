@@ -17,7 +17,7 @@ output_path = ""
 
 base_path = os.path.dirname(os.path.realpath(__file__))
 
-logging.basicConfig(filename="preproc_error.log", level=logging.ERROR)
+logging.basicConfig(filename= os.path.join(base_path,"preproc_error.log"), level=logging.ERROR)
 
 def set_settings(settings1):
     settings = settings1
@@ -60,7 +60,7 @@ def read_pdf_ocr(pdf_path):
 
         for page_enumeration, page in enumerate(pdf_pages, start=1):
 
-            filename = f"{tempdir}\page_{page_enumeration:03}.jpg"
+            filename = f"{tempdir}/page_{page_enumeration:03}.jpg"
 
             page.save(filename, "JPEG")
             image_file_list.append(filename)
@@ -102,88 +102,359 @@ def read_pdf_table(pdf_path):
 
 def load_csv(csv_path):
     table_dict = {}
+
+    #FOLLOWING IS FOR DEBUGGING PURPOSE
+    state_name = os.path.split(os.path.basename(csv_path))[1]
+    file_name = os.path.split(csv_path)[1]
+    if state_name == "Andaman_Nicobar_Islands" or file_name == "table-page-8-table-1.csv":
+        pass
+    #DELETE ABOVE, IT IS ONLY FOR DEBUGGING
+
     with open(csv_path) as file:
-        seek = 1
-        if file.readline().find("Content") != -1: #check 1st line for word "content"
+        temp_line = file.readline()
+        line_i = 1
+        nfhs_count = 0
+        header_count = (0,0,0)
+        urban = 0
+        rural =0
+        total = 0
+
+        if temp_line.find("Content") != -1: #check 1st line for word "content"
             return None
         else: #1st line does not have "content" => it is useful data
+            #find number of columns in the data
+            match = re.match(r"^\s*\"?NFHS-\d\s*\n$",temp_line)
+            if match:
+                nfhs_count = nfhs_count + 1
+            temp_line = file.readline()
+            line_i = 2
+            match = re.match(r"^\s*\"?NFHS-\d\s*\n$",temp_line)
+            if match:
+                nfhs_count = nfhs_count + 1
             text = file.readlines() #read rest of the file
             column=False
             column_name = ""
+            column_suffix = ""
+            fix_column = None
             forward = True
             values = []
+            length = 0
+            after_column = False;
+
             for line in text:
-                match = re.findall(r"^\d+[.]\s.*\n$",line)
+                blank_match = re.match(r"^\s*\n$",line)
+                if blank_match:
+                    continue
+                line_i = line_i + 1
+                match = None
+                line = line.replace("\"","")
+                if line_i<11: #in the first 9 lines
+                    #check for headers
+                    urban_m = re.match(r"^\s*\"?(Urban)\s*\n$", line)
+                    if urban_m:
+                        urban = urban + 1
+                        header_count = (urban,rural,total)
+                    else:
+                        rural_m = re.match(r"^\s*\"?(Rural)\s*\n$", line)
+                        if rural_m:
+                            rural = rural + 1
+                            header_count = (urban,rural,total)
+                        else:
+                            total_m = re.match(r"^\s*\"?(Total)\s*\n$", line)
+                            if total_m:
+                                total = total + 1
+                                header_count = (urban,rural,total)
+                            else:
+                                total_m = re.match(r"^\s*(Urban)\s*(Rural)\s*\n$",line)
+                                if total_m:
+                                    urban = urban + 1
+                                    rural = rural + 1
+                                    header_count = (urban,rural,total)
+                if fix_column:
+                    #column must be missing its initial number, check:
+                    match = re.match(r"^\s*.*\n$",line)
+                    if match:
+                        #Column needs to be prefixed with value given in fix_column
+                        line = fix_column + " " + match.group()
+                        fix_column = None
+                        #now let programme check as usual if the line is a column
+                
+                match = re.match(r"^\d+[.]\s.*\n$",line)
                 if match:
                     #it is a column
-                    match = match[0]
+                    match = pure_name(match.group())
                     if column:
-                        #next column found, save previous column + values
-                        length = len(values)
+                        #next column found
                         if not forward: #if values preceded column name, save previous values with this column name
-                            column_name = match
-                        column_name = re.sub(r"^\d+[.]*\d*\s(.*)\s\n$",r"\g<1>",column_name) #pure text
-                        if length==4:
-                            #_5_U, _5_R, _5_T, _4_T
-                            table_dict[column_name + "_5U"] = values[0]
-                            table_dict[column_name + "_5R"] = values[1]
-                            table_dict[column_name + "_5T"] = values[2]
-                            table_dict[column_name + "_4T"] = values[3]
-                            values = []
-                        elif length==2:
-                            #_5_T, _4_T
-                            table_dict[column_name + "_5T"] = values[0]
-                            table_dict[column_name + "_4T"] = values[1]
-                            values = []
+                            column_name = match #pure text
+                        
+                        prev_length = length
+                        length = len(values)
+
+                        if length == 0: #no values found
+                            if forward==False: #backward, meaning consecutive columns mostly
+                                forward = True
+                                #nothing more to do in this iteration
+                            #...and if it is forward, then no values found makes sense
+                        elif length == 8:
+                            if forward == True: #easy case
+                                forward = False
+                                #save the previous column
+                                half_vals = values[:4]
+                                values = values[4:]
+                                #save earlier column with former 4 values
+                                insert_to_dict(table_dict,half_vals,column_name,column_suffix, header_count)
+                                #save this column with latter 4 values
+                                column_name = pure_name(match) #pure text
+                                insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                values=[]
+                        elif length == 4:
+                            if prev_length==2:
+                                #this means there is reversal of data again
+                                if forward == True: #easy case
+                                    forward = False
+                                    #save the previous column
+                                    half_vals = values[:2]
+                                    values = values[2:]
+                                    #save earlier column with former 4 values
+                                    insert_to_dict(table_dict,half_vals,column_name,column_suffix, header_count)
+                                    #save this column with latter 4 values
+                                    column_name = pure_name(match) #pure text
+                                    insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                    values=[]
+                            else: #nothing fishy, could be 4 value table
+                                insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                values=[]
+                        elif length == 2: #safest
+                            if nfhs_count == 2:
+                                #no issues
+                                insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                values=[]
+                            else: #only 1 column but 2 values
+                                #Because we have found a column, it must mean reversal
+                                if prev_length == 1:
+                                    if forward == True: #easy case
+                                        forward = False
+                                        #save the previous column
+                                        half_vals = values[:1]
+                                        values = values[1:]
+                                        #save earlier column with former 4 values
+                                        insert_to_dict(table_dict,half_vals,column_name,column_suffix, header_count)
+                                        #save this column with latter 4 values
+                                        column_name = pure_name(match) #pure text
+                                        insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                        values=[]
+                                    else: #it was backwards and 1 column yet 2 values => fishy
+                                        logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)    
+                        elif length == 1:
+                            #check if there is indeed only 1
+                            if nfhs_count == 1:
+                                #no issues
+                                insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                values=[]
+                        else:
+                            logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)
+            
                         column_name = match #update to new column name
                     else:
+                        #probably is the first column in the table
                         if not forward:
                             #values have been found and this is first column
                             column_name = match
-                        column_name = re.sub(r"^\d+[.]*\d*\s(.*)\s\n$",r"\g<1>",column_name)#pure text
+                        #WHAT DOES FOLLOWING CODE DO?
+                        # It checks number of values found. If it finds no values i.e. two consecutive columns
+                        # ... then it changes reverses direction of data to forward from backward
+                        # If it finds 8 values, and was forward, means now direction has reversed. It does so
+                        # ... and saves the new (backwards) column as well. If there are 4 values, it is tricky
+                        # ... as it could be reversal of 2 value columns, or a normal 4 value column. It checks
+                        # ... if the table has 2 values or 4 and acts accordingly. Any other value shows an issue
+                        # ... with the data, and thus a breakpoint is to be kept to fix the data manually
+                        
+                        prev_length = length
                         length = len(values)
-                        if length==4:
-                            #_5_U, _5_R, _5_T, _4_T
-                            table_dict[column_name + "_5U"] = values[0]
-                            table_dict[column_name + "_5R"] = values[1]
-                            table_dict[column_name + "_5T"] = values[2]
-                            table_dict[column_name + "_4T"] = values[3]
-                            values = []
-                        elif length==2:
-                            #_5_T, _4_T
-                            table_dict[column_name + "_5T"] = values[0]
-                            table_dict[column_name + "_4T"] = values[1]
-                            values = []
+
+                        if length == 0: #no values found
+                            if forward==False: #backward, meaning consecutive columns mostly
+                                forward = True
+                                #nothing more to do in this iteration
+                            #...and if it is forward, then no values found makes sense
+                        elif length == 8:
+                            if forward == True: #easy case
+                                forward = False
+                                #save the previous column
+                                half_vals = values[:4]
+                                values = values[4:]
+                                #save earlier column with former 4 values
+                                insert_to_dict(table_dict,half_vals,column_name,column_suffix, header_count)
+                                #save this column with latter 4 values
+                                column_name = pure_name(match) #pure text
+                                insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                values=[]
+                        elif length == 4:
+                            if prev_length==2:
+                                #this means there is reversal of data again
+                                if forward == True: #easy case
+                                    forward = False
+                                    #save the previous column
+                                    half_vals = values[:2]
+                                    values = values[2:]
+                                    #save earlier column with former 4 values
+                                    insert_to_dict(table_dict,half_vals,column_name,column_suffix, header_count)
+                                    #save this column with latter 4 values
+                                    column_name = pure_name(match) #pure text
+                                    insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                    values=[]
+                            else: #nothing fishy, could be 4 value table
+                                insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                values=[]
+                        elif length == 2: #safest
+                            if nfhs_count == 2:
+                                #no issues
+                                insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                values=[]
+                            else: #only 1 column but 2 values
+                                logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)    
+                        elif length == 1:
+                            #check if there is indeed only 1
+                            if nfhs_count == 1:
+                                #no issues
+                                insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                values=[]
+                        else:
+                            logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)
                         column_name = match #update to new column name
-                        #we have found a column, get its pure text
                         column = True
-                else:
+                    after_column = True
+                else: #NOT A COLUMN
                     #it is not a column, is it a value?
-                    match = re.findall("^((\d+[.]*\d*)|(na)|([*]))\s*\n$",line)
-                    if match:
-                        match = match[0][0]
-                        #it is a value, does it follow a column or precede?
-                        if column == False or forward == False:
-                            #found value before any column, i.e. backwards
-                            forward = False
-                        values.append(match)
-                    else:
-                        #it is some other text, if forward, column are true and values aren't empty, save
-                        if forward and column and values:
-                            if length==4:
-                                #_5_U, _5_R, _5_T, _4_T
-                                table_dict[column_name + "_5U"] = values[0]
-                                table_dict[column_name + "_5R"] = values[1]
-                                table_dict[column_name + "_5T"] = values[2]
-                                table_dict[column_name + "_4T"] = values[3]
-                                values = []
-                            elif length==2:
-                                #_5_T, _4_T
-                                table_dict[column_name + "_5T"] = values[0]
-                                table_dict[column_name + "_4T"] = values[1]
-                                values = []
-                        else: #output error, verify later
-                            logging.error("File [" + file.name + "], line [" + line +
-                             "], forward=" + str(forward) + ", column=" + str(column) +
-                             ", values=" + str(values) + ", column_name [" + column_name + "]")
-    return pd.DataFrame(table_dict)
+                    match = re.match(r"^\s*((\d+([,]\d*)?[.]?\d*)|([(]\d+([,]\d*)?[.]?\d*[)])|(na)|([*]))\s*\n$",line)
+                    if match: #VALUE
+                        match = match.group() #get matched text
+                        #IT IS MOST PROBABLY DATA but we need to make sure it is not
+                        # a question/column number (expected in this dataset)
+                        match2 = re.match(r"^\s*\d+[.]\s*\n$",match)
+                        if match2:
+                            #It is actually issue in data where # of column and column name are separated
+                            #Confirm if this is the case:
+                            fix_column = re.sub(r"^\s*(\d+[.])\s*\n$",r"\g<1>",match2.group())
+                        else:
+                            fix_column = None
+                            if column == False or forward == False:
+                                #found value before any column, i.e. backwards
+                                forward = False
+                            values.append(pure_value(match))
+                    else: #NOT A VALUE => SOME OTHER TEXT
+                        prev_length = length
+                        length = len(values)
+                        #Is it "Men"/"Women" header?
+                        match = re.search(r"^\s*((Men)|(Women))\s*\n$",line) #Man/Woman suffix
+                        if match != None:
+                            #it is "men" or "women", make it as suffix for following columns (until some other heading shows up)
+                            suffix = re.sub(r"^\s*((Men)|(Women))\s*\n$",r"\g<1>",match.group())
+                            if  suffix == "Men" or suffix == "Women":
+                                #Men or women, add the suffix
+                                column_suffix = "_" + suffix
+                        else: #NOT men/women header. Is it continuation of column?
+                            match = re.match(r"^\s*[a-z]+.*\s*\n$",line)
+                            if match: #CONTINUATION OF PREVIOUS COLUMN
+                                #most probably is part of the column above, join it there
+                                if not forward: #if backward, prev column must have been inserted
+                                    prev_col = list(table_dict.keys())[-1]
+                                    new_col = re.sub(r"^\s*(?P<colname>.*)((_Women)|(_Men))?((5U)|(5R)|(5T)|(4T))?\s*$",r"\g<colname>",prev_col)
+                                    print("debug")
+                                    #NOTE: It seems this case never comes. So above regex has NOT BEEN TESTED to work
+                                else: #if forward, simply append to column name?
+                                    column_name = pure_name(column_name) + " " + remove_blanks(match.group())
+                            else: #Not even men/women or continuation of column
+                                if forward and column and values:
+                                    #It is some other text entirely, if going forward, save column
+                                    #If there are no pending values to be written, then no issue
+                                    column_suffix = "" #reset column suffix
+                                    if length == 0:
+                                        pass #nothing to do. No pending values
+                                    elif length == 8:
+                                        #Data issue, as there are 8 values to be written and less than 2 columns
+                                        logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)
+                                    elif length == 4:
+                                        if prev_length==2:
+                                            #this means there is some issue
+                                            logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)
+                                        else:
+                                            if forward: #nothing fishy, column's 4 values followed by random text. save column
+                                                insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                                values=[]
+                                            else:
+                                                logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)
+                                    elif length == 2:
+                                        if nfhs_count == 2:
+                                            #no issues
+                                            insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                            values=[]
+                                        else: #only 1 column but 2 values
+                                            logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)    
+                                    elif length == 1:
+                                    #check if there is indeed only 1
+                                        if nfhs_count == 1:
+                                            #no issues
+                                            insert_to_dict(table_dict,values,column_name,column_suffix, header_count)
+                                            values=[]
+                                        else:
+                                            logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)    
+                                    else:
+                                        logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)
+                                else: #random text like headings
+                                    column_suffix = ""
+                                    if length != 0:
+                                        #whom do these values belong to if no column is present?
+                                        logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)
+                                    else:
+                                        #do nothing, random text
+                                        pass
+                    if after_column:
+                            after_column = False
+    table_df = pd.DataFrame(table_dict, index=[0])
+    table_df.name = file_name
+    return table_df
+
+def insert_to_dict(table_dict,values,column_name,column_suffix, header_count):
+    length = len(values)
+    urban, rural, total = header_count
+    if length==4:
+        #_5_U, _5_R, _5_T, _4_T
+        if urban+rural+total==4:
+            if urban==1 and rural == 1:
+                table_dict[column_name + column_suffix + "_5U"] = values[0]
+                table_dict[column_name + column_suffix + "_5R"] = values[1]
+                table_dict[column_name + column_suffix + "_5T"] = values[2]
+                table_dict[column_name + column_suffix + "_4T"] = values[3]
+            else:
+                print("debug")
+        else:
+            print("debug")
+        return 1
+    elif length==2:
+        #_5_T, _4_T
+        if urban+rural+total==2:
+            if total == 2:
+                table_dict[column_name + column_suffix + "_5T"] = values[0]
+                table_dict[column_name + column_suffix + "_4T"] = values[1]
+            else:
+                print("debug")
+        else:
+            print("debug")
+        return 1
+    elif length==1:
+        #_5_T, _4_T
+        table_dict[column_name + column_suffix + "_5T"] = values[0]
+    else:
+        return 0
+
+def pure_name(column_name):
+    return re.sub(r"^\s*\d+[.]\s*(.*)\s*\n$",r"\g<1>",column_name)
+
+def remove_blanks(text):
+    return re.sub(r"^\s*(.*)\s*\n$",r"\g<1>",text)
+
+def pure_value(value):
+    value = re.sub("[,]","",value)
+    return re.sub(r"^\s*(([(]?\d+[.]*\d*[)]?)|(na)|([*]))\s*\n$",r"\g<1>",value)
