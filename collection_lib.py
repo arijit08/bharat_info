@@ -78,10 +78,13 @@ def get_pdfs(folder_path):
 def get_csvs(folder_path):
     csvs = []
     folders_list = []
-    for file_name in recursive_folders(folder_path):
-        if os.path.isdir(file_name.path):
-            folders_list.append(file_name.path)
-            recursive_folders(file_name.path)
+    folders_list.extend(get_folders_r(folder_path))
+    for folder in folders_list:
+        files = os.scandir(folder)
+        for file in files:
+            if os.path.splitext(file.path)[1] == ".csv":
+                csvs.append(file.path)
+    return csvs
             
     for folder in folders_list:
         for file_name in os.scandir(folder):
@@ -90,12 +93,17 @@ def get_csvs(folder_path):
                 csvs.append(file_name)
     return csvs
 
-def recursive_folders(folder_path):
-    return os.scandir(folder_path)
-
 def get_folders(folder_path, restrict_list):
     folders = []
     for item in os.scandir(folder_path):
         if item.path not in restrict_list:
             folders.append(item.path)
+    return folders
+
+def get_folders_r(path): #r implies recursive, gives exhaustive list of all folders and subfolders in a path
+    folders = []
+    for item in os.scandir(path):
+        if item.is_dir and not item.is_file:
+            folders.append(item.path)
+            folders.extend(get_folders_r(item.path))
     return folders

@@ -59,7 +59,7 @@ elif len(output_folders)==0: #if there are no folders inside output folder
 else: #if pdfs are downloaded and also there are folders in output folder i.e. csvs extracted
     pp.set_settings(settings)
     for folder in output_folders:
-        folder_name = os.path.split(folder)[0]
+        folder_name = os.path.split(folder)[1]
         table_dfs[folder_name] = []
         tables = os.scandir(folder)
         for table in tables:
@@ -69,10 +69,10 @@ else: #if pdfs are downloaded and also there are folders in output folder i.e. c
                 if table_df is not None:
                     table_dfs[folder_name].append(table_df)
     #Now tables are ready for processing
-    for folder in table_dfs:
-        clean_path = os.path.join(clean_output_path, folder)
+    for folder in table_dfs.keys():
+        clean_path = os.path.join(base_path, clean_output_path, folder)
         pp.makedirs(clean_path)
-        state_table = pd.DataFrame()
-        pd.concat(list(table_dfs), axis=1)
+        state_table = pd.concat(list(table_dfs[folder]), axis=1)
+        print("saving as csv to " + os.path.join(clean_path,"table.csv"))
         state_table.to_csv(os.path.join(clean_path,"table.csv"))
 print("end")
