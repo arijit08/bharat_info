@@ -7,8 +7,8 @@ Indicators
 Urban 
 Rural 
 Total 
-Total 
-1. Female population age 6 years and above who ever attended school (%) 
+Total"
+"1. Female population age 6 years and above who ever attended school (%) 
 75.5  
 61.2  
 65.6  
@@ -27,8 +27,8 @@ Total
 877  
 957  
 934  
-914  
-5. Children under age 5 years whose birth was registered with the civil authority (%) 
+914"
+"5. Children under age 5 years whose birth was registered with the civil authority (%) 
 93.8  
 91.6  
 92.2  
@@ -43,48 +43,39 @@ na
 99.4  
 99.5  
 99.2  
-8. Population living in households with an improved drinking-water source1 (%) 
-99.4  
+8. Population living in households with an improved drinking-water source<s>1</s> (%) 99.4  
 95.4  
 96.7  
-95.6  
-9. Population living in households that use an improved sanitation facility2 (%) 
-89.1  
+95.6"
+"9. Population living in households that use an improved sanitation facility<s>2 </s>(%) 89.1  
 72.1  
 77.3  
-54.4  
-10. Households using clean fuel for cooking3 (%) 
-96.6  
+54.4"
+"10. Households using clean fuel for cooking<s>3</s> (%) 96.6  
 77.9  
 83.6  
-62.0  
-11. Households using iodized salt (%) 
+62.0"
+"11. Households using iodized salt (%) 
 89.3  
 80.4  
 83.1  
-81.6  
-12. Households with any usual member covered under a health insurance/financing scheme (%) 
+81.6"
+"12. Households with any usual member covered under a health insurance/financing scheme (%) 
 62.2  
 73.7  
 70.2  
-74.6  
-13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%) 
+74.6"
+"13. Children age 5 years who attended pre-primary school during the school year 2019-20 (%) 
 10.2  
 9.8  
 9.9  
-na 
-Characteristics of Adults (age 15-49 years)  
-  
-  
-  
-  
-14. Women who are literate4 (%) 
-79.0  
+na"
+"Characteristics of Adults (age 15-49 years)"
+"14. Women who are literate<s>4</s> (%) 79.0  
 63.8  
 68.6  
 na 
-15. Men who are literate4 (%) 
-86.4  
+15. Men who are literate<s>4</s> (%) 86.4  
 76.3  
 79.5  
 na 
@@ -107,23 +98,19 @@ na
 65.1  
 41.5  
 48.8  
-na 
-Marriage and Fertility 
-  
-  
-  
-  
-20. Women age 20-24 years married before age 18 years (%) 
+na"
+"Marriage and Fertility"
+"20. Women age 20-24 years married before age 18 years (%) 
 21.7  
 32.9  
 29.3  
-33.0  
-21. Men age 25-29 years married before age 21 years (%) 
+33.0"
+"21. Men age 25-29 years married before age 21 years (%) 
 13.1  
 15.2  
 14.5  
-15.8  
-22. Total fertility rate (children per woman) 
+15.8"
+"22. Total fertility rate (children per woman) 
 1.5  
 1.8  
 1.7  
@@ -132,48 +119,37 @@ Marriage and Fertility
 9.3  
 14.1  
 12.6  
-11.8  
-24. Adolescent fertility rate for women age 15-19 years5 
-40  
+11.8"
+"24. Adolescent fertility rate for women age 15-19 years<s>5</s>40  
 80  
 67  
-83  
-Infant and Child Mortality Rates (per 1,000 live births) 
-  
-  
-  
-  
-25. Neonatal mortality rate (NNMR) 
+83"
+"Infant and Child Mortality Rates (per 1,000 live births)"
+"25. Neonatal mortality rate (NNMR) 
 14.4  
 22.1  
 19.9  
-23.6  
-26. Infant mortality rate (IMR) 
+23.6"
+"26. Infant mortality rate (IMR) 
 29.8  
 30.4  
 30.3  
-34.9  
-27. Under-five mortality rate (U5MR) 
+34.9"
+"27. Under-five mortality rate (U5MR) 
 33.7  
 35.8  
 35.2  
-40.8  
-Current Use of Family Planning Methods (currently married women age 15–49 years) 
-  
-  
-  
-  
-28. Any method6 (%) 
-70.8  
+40.8"
+"Current Use of Family Planning Methods (currently married women age 15–49 years)"
+"28. Any method<s>6</s> (%) 70.8  
 71.2  
 71.1  
 69.5  
-29. Any modern method6 (%) 
-70.3  
+29. Any modern method<s>6</s> (%) 70.3  
 71.1  
 70.8  
-69.4  
-30. Female sterilization (%) 
+69.4"
+"30. Female sterilization (%) 
 68.3  
 70.2  
 69.6  
@@ -202,34 +178,23 @@ Current Use of Family Planning Methods (currently married women age 15–49 year
 0.0  
 0.0  
 0.0  
-0.0  
-Unmet Need for Family Planning (currently married women age 15–49 years) 
-  
-  
-  
-  
-36. Total unmet need7 (%) 
-5.2  
+0.0"
+"Unmet Need for Family Planning (currently married women age 15–49 years)"
+"36. Total unmet need<s>7 </s>(%) 5.2  
 4.4  
 4.7  
-4.7  
-37. Unmet need for spacing7 (%) 
-2.3  
+4.7"
+"37. Unmet need for spacing<s>7</s> (%) 2.3  
 2.8  
 2.6  
-3.1  
-Quality of Family Planning Services 
-  
-  
-  
-  
-38. Health worker ever talked to female non-users about family planning (%) 
+3.1"
+"Quality of Family Planning Services"
+"38. Health worker ever talked to female non-users about family planning (%) 
 18.6  
 18.6  
 18.6  
 19.7  
-39. Current users ever told about side effects of current method8 (%) 
-33.6  
+39. Current users ever told about side effects of current method<s>8</s> (%) 33.6  
 27.1  
 28.9  
 25.0"

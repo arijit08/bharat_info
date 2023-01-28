@@ -19,6 +19,8 @@ base_path = os.path.dirname(os.path.realpath(__file__))
 
 logging.basicConfig(filename= os.path.join(base_path,"preproc_error.log"), level=logging.ERROR)
 
+districts = dict()
+
 def set_settings(settings1):
     settings = settings1
     if platform.system() == "Windows":
@@ -93,7 +95,7 @@ def read_pdf_txt(pdf_path):
                 output.write(extracted_text)
 
 def read_pdf_table(pdf_path):
-    tables = camelot.read_pdf(pdf_path, pages='1-end')
+    tables = camelot.read_pdf(pdf_path, pages='all', flag_size=True, process_background=True)
     pdf_name = os.path.splitext(os.path.basename(pdf_path))[0]
     pdf_output_path = os.path.join(base_path,output_path,pdf_name)
     print("Extracted " + str(tables.n) + " tables from " + pdf_path + ", saving at " + pdf_output_path)
@@ -103,13 +105,15 @@ def read_pdf_table(pdf_path):
 def load_csv(csv_path):
     table_dict = {}
 
-    #FOLLOWING IS FOR DEBUGGING PURPOSE
-    state_name = os.path.split(os.path.basename(csv_path))[1]
+    state_name = os.path.split(os.path.dirname(csv_path))[1]
     file_name = os.path.split(csv_path)[1]
-    if state_name == "Andaman_Nicobar_Islands" or file_name == "table-page-8-table-1.csv":
+    if state_name == "Telangana":
         pass
-    #DELETE ABOVE, IT IS ONLY FOR DEBUGGING
-
+    match = re.match(r"^table-page-(?P<tablepage>\d+)-table-\d+[.]csv$",file_name)
+    if match:
+        table_page = match.group("tablepage")
+    else:
+        table_page = file_name.replace("-table-1","").replace("table-page-", "").replace(".csv")
     with open(csv_path) as file:
         temp_line = file.readline()
         line_i = 1
@@ -120,6 +124,75 @@ def load_csv(csv_path):
         total = 0
 
         if temp_line.find("Content") != -1: #check 1st line for word "content"
+            #Check if this is indeed the first table
+            
+            if match:
+                #It is the first table containing list of all districts. 
+                #Iterate through it and remember the page numbers of districts
+                if not districts.get(state_name):
+                    districts[state_name] = dict() #Add a new dictionary for districts, page_nums for this state
+                dist_flag = False
+                line = temp_line
+                prev_line = ""
+                while not dist_flag and line_i<10:
+                    if line.strip() != "":
+                        prev_line = line
+                    line = file.readline()
+                    if line == "": #EOF reached
+                        dist_flag = True    
+                    line_i = line_i + 1
+                    match = re.match(r"^\s*District\s*\n$",line)
+                    if match:
+                        dist_flag = True
+                #Now "District" line has been reached. Begin recognition from here:
+                #First get line just before district, which contains page number of the state's data
+                match = re.match(r"^\s*(?P<statenum>\d+)\"?\s*\n?$",prev_line)
+                state_num = "0"
+                if match:
+                    #Found state page number, enter it into districts dictionary
+                    state_num = match.group("statenum")
+                    state_num = str(int(state_num))
+#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ADD 6 TO STATE_NUM IF NEEDED
+                    if not districts.get(state_name):
+                        districts[state_name] = {}
+                    districts[state_name][state_num] = state_name
+                else: #Page number not above "districts" line (exception)
+                    logging.error("Issue at state page number " + state_num + " for " + state_name + " state " + csv_path + " at line: " + line)    
+                #Now begin recognition of district page numbers
+                text = file.readlines()
+                dist_name = ""
+                dist_page = ""
+                fix_column = None
+                for line in text:
+                    #First check is the column name to be fixed (is the column # present, Ex. "23. "):
+                    match = re.match(r"^(\d+[.])\s*\n$",line)
+                    if match:
+                        fix_column = match.group(1) #get the column no.
+                    else: #Check if it is column to be fixed (was column # present in last line)
+                        if fix_column:
+                            match = re.match(r"^\s*[A-Z][A-Z\sa-z&.()-]+\s*\n$",line) #see if next line is indeed column name
+                            if match:
+                                line = fix_column + " " + line
+                                fix_column = None
+                            else:
+                                logging.error("Issue at state page number " + state_num + " for " + state_name + " state " + csv_path + " at line: " + line)
+                    match = re.match(r"^\d+[.]\s*(?P<distname>[A-Z][A-Z\sa-z&.()-]+)\s*\n$",line)
+                    if match:
+                        #DISTRICT NAME
+                        dist_name = match.group("distname").strip(" ").replace("  ", " ")
+                    else:
+                        #Check for page number
+                        match = re.match(r"^\s*(?P<pagenum>(\d+)|(\d+\"))\s*\n$",line)
+                        if match:
+                            #PAGE NUMBER
+                            dist_page = match.group("pagenum").replace("\"","").replace(" ", "")
+                            dist_page = str(int(dist_page))
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>ADD 6 TO DIST_PAGE IF YOU WANT
+                            if not districts.get(state_name):
+                                districts[state_name] = dict()
+                            districts[state_name][dist_page] = dist_name
+                            
+                            #Henceforth, we can get a district from the state and page number from districts dictionary
             return None
         else: #1st line does not have "content" => it is useful data
             #find number of columns in the data
@@ -139,7 +212,7 @@ def load_csv(csv_path):
             forward = True
             values = []
             length = 0
-            after_column = False;
+            after_column = False; #this is in case column name is split in two lines
 
             for line in text:
                 blank_match = re.match(r"^\s*\n$",line)
@@ -186,7 +259,7 @@ def load_csv(csv_path):
                     if column:
                         #next column found
                         if not forward: #if values preceded column name, save previous values with this column name
-                            column_name = match #pure text
+                            column_name = pure_name(match) #pure text
                         
                         prev_length = length
                         length = len(values)
@@ -246,6 +319,8 @@ def load_csv(csv_path):
                                         values=[]
                                     else: #it was backwards and 1 column yet 2 values => fishy
                                         logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)    
+                                else:
+                                    logging.error("Found " + str(length) + " values in " + csv_path + " at line: " + line)    
                         elif length == 1:
                             #check if there is indeed only 1
                             if nfhs_count == 1:
@@ -458,3 +533,6 @@ def remove_blanks(text):
 def pure_value(value):
     value = re.sub("[,]","",value)
     return re.sub(r"^\s*(([(]?\d+[.]*\d*[)]?)|(na)|([*]))\s*\n$",r"\g<1>",value)
+
+def get_district(state, page):
+    return districts[state][page]

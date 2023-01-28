@@ -16,7 +16,7 @@ options.headless = True #Do you want to see the browser window while scraping (T
 driver = None
 
 def load_browser():
-    webdriver.Chrome(options=options, executable_path=DRIVER_PATH)
+    driver = webdriver.Chrome(options=options, executable_path=DRIVER_PATH)
 
 #navigate browser to a url
 def load_page(urlpath):

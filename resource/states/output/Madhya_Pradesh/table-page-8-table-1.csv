@@ -7,20 +7,19 @@ Indicators
 Urban 
 Rural 
 Total 
-Total 
-Maternity Care (for last birth in the 5 years before the survey) 
-40. Mothers who had an antenatal check-up in the first trimester (%)
+Total"
+"Maternity Care (for last birth in the 5 years before the survey)"
+"40. Mothers who had an antenatal check-up in the first trimester (%)
 78.4 
 74.4 
 75.4 
-53.0 
-41. Mothers who had at least 4 antenatal care visits (%)
+53.0"
+"41. Mothers who had at least 4 antenatal care visits (%)
 63.3 
 55.6 
 57.5 
-35.7 
-42. Mothers whose last birth was protected against neonatal tetanus9 (%)
-96.4 
+35.7"
+"42.Mothers whose last birth was protected against neonatal tetanus<s>9</s> (%)96.4 
 94.5 
 95.0 
 89.8 
@@ -28,13 +27,13 @@ Maternity Care (for last birth in the 5 years before the survey)
 58.6 
 49.1 
 51.4 
-23.5 
-44. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%)
+23.5"
+"44. Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%)
 36.6 
 30.3 
 31.8 
-9.2 
-45. Registered pregnancies for which the mother received a Mother and Child Protection (MCP)
+9.2"
+"45. Registered pregnancies for which the mother received a Mother and Child Protection (MCP)
 card (%)
 94.5 
 97.4 
@@ -45,13 +44,13 @@ personnel within 2 days of delivery (%)
 87.6 
 82.2 
 83.5 
-54.9 
-47. Average out-of-pocket expenditure per delivery in a public health facility (Rs.)
+54.9"
+"47. Average out-of-pocket expenditure per delivery in a public health facility (Rs.)
 1,969 
 1,523 
 1,619 
-1,481 
-48. Children born at home who were taken to a health facility for a check-up within 24 hours of
+1,481"
+"48. Children born at home who were taken to a health facility for a check-up within 24 hours of
 birth (%)
 11.4 
 9.2 
@@ -62,27 +61,25 @@ personnel within 2 days of delivery (%)
 89.0 
 82.3 
 83.9 
-na 
-Delivery Care (for births in the 5 years before the survey) 
-50.
+na"
+"Delivery Care (for births in the 5 years before the survey)"
+"50.
 Institutional births (%)
 95.8 
 89.2 
 90.7 
-80.8 
-51.
+80.8"
+"51.
 Institutional births in public facility (%)
 71.9 
 82.6 
 80.2 
 69.4 
-52. Home births that were conducted by skilled health personnel10 (%)
-1.2 
+52.Home births that were conducted by skilled health personnel<s>10</s> (%)1.2 
 2.9 
 2.5 
 2.3 
-53. Births attended by skilled health personnel10 (%)
-92.5 
+53.Births attended by skilled health personnel<s>10</s> (%)92.5 
 88.4 
 89.3 
 78.0 
@@ -100,17 +97,15 @@ Institutional births in public facility (%)
 15.3 
 6.5 
 8.2 
-5.8 
-Child Vaccinations and Vitamin A Supplementation 
-57. Children age 12-23 months fully vaccinated based on information from either vaccination card
-or mother's recall11 (%)
-76.5 
+5.8"
+"Child Vaccinationsand Vitamin A Supplementation"
+"57. Children age 12-23 months fully vaccinated based on information from either vaccination card
+or mother's recall<s>11</s> (%)76.5 
 77.3 
 77.1 
-53.6 
-58. Children age 12-23 months fully vaccinated based on information from vaccination card
-only12 (%)
-83.5 
+53.6"
+"58. Children age 12-23 months fully vaccinated based on information from vaccination card
+only<s>12</s> (%)83.5 
 83.2 
 83.3 
 76.3 
@@ -119,8 +114,7 @@ only12 (%)
 95.4 
 95.4 
 91.6 
-60. Children age 12-23 months who have received 3 doses of polio vaccine13 (%)
-81.0 
+60.Children age 12-23 months who have received 3 doses of polio vaccine<s>13</s> (%)81.0 
 81.5 
 81.4 
 63.6 
@@ -141,8 +135,7 @@ vaccine (MCV) (%)
 35.9 
 35.2 
 na 
-64. Children age 12-23 months who have received 3 doses of rotavirus vaccine14 (%)
-73.5 
+64.Children age 12-23 months who have received 3 doses of rotavirus vaccine<s>14</s> (%)73.5 
 70.1 
 70.9 
 na 
@@ -167,9 +160,9 @@ facility (%)
 4.4 
 0.3 
 1.2 
-3.7 
-Treatment of Childhood Diseases (children under age 5 years) 
-69. Prevalence of diarrhoea in the 2 weeks preceding the survey (%)
+3.7"
+"Treatment of Childhood Diseases (children under age 5 years)"
+"69. Prevalence of diarrhoea in the 2 weeks preceding the survey (%)
 7.2 
 6.2 
 6.4 
