@@ -19,7 +19,11 @@ base_path = os.path.dirname(os.path.realpath(__file__))
 
 logging.basicConfig(filename= os.path.join(base_path,"preproc_error.log"), level=logging.ERROR)
 
+state_cols = []
+dist_cols = []
+
 districts = dict()
+offsets = dict()
 
 def set_settings(settings1):
     settings = settings1
@@ -27,16 +31,20 @@ def set_settings(settings1):
         pytesseract.pytesseract.tesseract_cmd = (
             settings["tesseract_path"][0]
         )
-
         global poppler_path,output_path
         # Windows also needs poppler_exe
         poppler_path = Path(settings["poppler_path"][0])     
-        
-        # Put our output files in a sane place...
-        output_path = Path(settings["output_path"][0])
-    else:
-        output_path = Path(settings["output_path"][0])
-        # Store all the pages of the PDF in a variable
+    output_path = Path(settings["output_path"][0])
+    state_cols_path = os.path.join(base_path,settings["state_cols"][0])
+    with open(state_cols_path, encoding="utf-8") as state_cols_f:
+        for line in state_cols_f:
+            state_cols.append(line.strip())
+    dist_cols_path = os.path.join(base_path,settings["dist_cols"][0])
+    with open(dist_cols_path, encoding="utf-8") as dist_cols_f:
+        for line in dist_cols_f:
+            dist_cols.append(line.strip())
+
+    
 
 def makedirs(path):
     if not os.path.isdir(path):
@@ -101,6 +109,133 @@ def read_pdf_table(pdf_path):
     print("Extracted " + str(tables.n) + " tables from " + pdf_path + ", saving at " + pdf_output_path)
     makedirs(pdf_output_path)
     tables.export(os.path.join(pdf_output_path,"table.csv"), f="csv")
+
+def clean_csv(csv_path):
+    contents = False
+    state_name = os.path.split(os.path.dirname(csv_path))[1]
+    file_name = os.path.split(csv_path)[1]
+    match = re.match(r"^table-page-(?P<tablepage>\d+)-table-\d+[.]csv$",file_name)
+    if match:
+        table_page = match.group("tablepage")
+    else:
+        table_page = file_name.replace("-table-1","").replace("table-page-", "").replace(".csv")
+    if state_name != "Lakshadweep" and state_name != "Chandigarh" and (table_page == "3" or table_page == "4"):
+        #Contents page
+        contents = True
+    with open(csv_path, encoding="utf8") as file:
+        text = file.read()
+        #EDA of file shows that states have 131 columns, districts have 104
+        #So using notepad++ get column names in one file
+        #Then find each column in the text. Then look for its values above and below
+        text.replace("\"","")
+        text = re.sub(r"<s>.*</s>",r" ",text)
+        #CHECK IF CONTENTS FILE, STATE FILE OR DIST FILE
+        if contents:
+            #Read contents file
+            dist = re.compile(r"(\d+)\s*[.]\s*([A-Z][A-Za-z&()-.\s]+)")
+            state = re.compile(r"^\s*([A-Z][A-Za-z&\s]+)\s*(\d+)")
+            pg_no = re.compile(r"(\d+)\s")
+            #Find the state name and page number first
+            m = state.search(text)
+            state_pg_no = None
+            if m:
+                state_name_r = m.group(1).strip()
+                state_pg_no = m.group(2).strip()
+                print("state details = ", state_name_r, state_pg_no)
+                #Remove the state name, pg no. from the text i.e. return remaining text
+                text = state.sub("", text)
+            #Find other (district) page numbers in the remaining text
+            m = pg_no.findall(text)
+            page_no_list = []
+            for match in m:
+                page_no = str(match).strip()
+                page_no_list.append(page_no)
+            #Remove district page numbers from text i.e. return the remaining text
+            text = pg_no.sub("", text)
+            #Search for district names in the remaining text
+            m = dist.findall(text)
+            districts_list = []
+            for match in m:
+                district_name = str(match[1]).strip()
+                districts_list.append(district_name)
+            #Now we have district names, page numbers and state name and page number, store them in dict
+            if not districts.get(state_name):
+                #If entry for state does not exist in distrct, create it
+                districts[state_name] = {}
+                if state_pg_no:
+                    districts[state_name][state_name] = state_pg_no
+                else:
+                    logging.debug("state pg no = null")
+            for i in range(0,len(districts_list)):
+                district = districts_list[i]
+                page = page_no_list[i]
+                districts[state_name][district] = page
+            pass
+            #Now calculate offset i.e. page at which difference between contents page no.s and actual page no.
+        else:
+            #Read data file based on contents
+
+            #First get Chandigarh and Lakshadweep out of the way:
+            if state_name != "Chandigarh" and state_name != "Lakshadweep":
+                #Get offset: Is this the first data table?
+                if not offsets.get(state_name):
+                    #Yes. Calculate the offset
+                    #Find page no of the state
+                    state_pg_no = int(districts[state_name][state_name])
+                    offset = int(table_page) - state_pg_no
+                    offsets[state_name] = offset
+                #Is it state or district?
+                state_districts = districts[state_name]
+                offset = offsets[state_name]
+                district_names = list(state_districts.keys())
+                district = None
+                prev_district_name = district_names[0]
+                for district_name in district_names:
+                    page_no = int(state_districts[district_name])
+                    #page_no contains the contents page no. of a district
+                    #for ascending values of page_no, check for which table page - offset is less than page no
+                    if int(table_page) < page_no + offset:
+                        district = prev_district_name
+                        break
+                    else:
+                        prev_district_name = district_name
+                if not district:
+                    district = district_name
+                #NOW "district" contains the name of the district/state
+                columns = None
+                if district == state_name:
+                    #It is a state
+                    columns = state_cols
+                else:
+                    #It is a district
+                    columns = dist_cols
+                #Now start matching each column in the data
+                for column in columns:
+                    col_r = re.compile("(?:" + r_escape(column) + ")")
+                    m = col_r.search(text)
+                    if m:
+                        print("Found " + m.group(0) + " at " + str(m.start))
+                    else:
+                        #It did not find the column text in this file
+                        #Either because the column in the file is not proper
+                        # or because the column is present in the next file
+                        #Set a breakpoint to find out which is the case
+                        pass
+
+def r_escape(text):
+    text = text.replace("  ", " ") #convert tabs to spaces
+    #Get rid of all extra spaces
+    while True:
+        newtext = text.replace("  ", " ") #remove multiple spaces
+        if newtext == text:
+            break
+        else:
+            text = newtext
+    text = text.replace(" ", r"\s*")
+    text = text.replace(".", "[.]").replace("(", "[(]").replace(")", "[)]") #escape regex characters
+    return text
+
+
 
 def load_csv(csv_path):
     table_dict = {}

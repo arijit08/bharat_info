@@ -1,11 +1,11 @@
 import os
 
 output_path = "C:/Users/08arijit/Documents/Data Science and Machine Learning/Data projects/Bharata Info/resource/states/output"
-folders = os.scandir(output_path)
+folders = ["C:/Users/08arijit/Documents/Data Science and Machine Learning/Data projects/Bharata Info/resource/states/output/Uttar_Pradesh", "C:/Users/08arijit/Documents/Data Science and Machine Learning/Data projects/Bharata Info/resource/states/output/West_Bengal"]
 
 import re
 for folder in folders:
-    files = os.scandir(folder.path)
+    files = os.scandir(folder)
     for file in files:
             filename = file.name
             match = re.match(r"^table-page-(\d+)-table-(\d)[.]csv$", filename)
