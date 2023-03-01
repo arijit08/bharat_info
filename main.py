@@ -95,6 +95,7 @@ else: #if pdfs are downloaded and also there are folders in output folder i.e. c
         table_dfs[folder_name] = []
         tables = list(os.scandir(folder))
         tables.sort(key=numericalSort)
+        pp.clear_backlog()
         for table in tables:
             table_ext = os.path.splitext(os.path.basename(table))[1]
             if table_ext == ".csv":
