@@ -77,7 +77,7 @@ def get_pdfs(folder_path):
 
 def get_csvs(folder_path):
     csvs = []
-    folders_list = []
+    folders_list = [folder_path]
     folders_list.extend(get_folders_r(folder_path))
     for folder in folders_list:
         files = os.scandir(folder)

@@ -5,6 +5,7 @@ import os
 import collection_lib as cl
 import preproc as pp
 import pandas as pd
+import numpy as np
 import re
 
 
@@ -20,12 +21,14 @@ clean_output_path = settings["clean_output_path"][0]
 restrict_list = [base_path, resource_path,states_path, output_path,clean_output_path]
 
 pp.makedirs(os.path.join(base_path,output_path))
+pp.makedirs(os.path.join(base_path,clean_output_path))
 
 table_dfs = {} #dict storing all tables of all states as dataframes
 state_offset = {}
 
 pdf_paths = cl.get_pdfs(os.path.join(base_path,resource_path,states_path))
 output_folders = cl.get_folders(os.path.join(base_path,output_path),restrict_list)
+clean_output_folders = cl.get_folders(os.path.join(base_path,clean_output_path),restrict_list)
 
 numbers = re.compile(r'(\d+)')
 
@@ -56,7 +59,37 @@ def second_page(page_nums):
     return page_nums[1]
 
 output_folders.sort(key=numericalSort)
+clean_output_folders.sort(key=numericalSort)
 
+def get_df(columns_list):
+    columns = ['Metric','Urban5','Rural5','Total5','Total4']
+    columns_df = pd.DataFrame(columns=columns)
+    columns_df.index.name = 'Index'
+    for column in columns_list.keys():
+        row = columns_list[column]
+        m = re.search(r"(\d+)\s*[.]\s*(.*)", column)
+        if m:
+            index = int(m.group(1))
+            column = m.group(2)
+            for i in range(0,len(row)):
+                if row[i] == "na":
+                    row[i] = np.nan
+            if len(row) == 4:
+                row_df = pd.DataFrame(data=[[column, row[0], row[1], row[2], row[3]]],columns=columns)
+                columns_df = pd.concat([columns_df, row_df], ignore_index=True)
+            elif len(row) == 2:
+                row_df = pd.DataFrame(data=[[column, np.nan, np.nan, row[0], row[1]]],columns=columns)
+                columns_df = pd.concat([columns_df, row_df], ignore_index=True)
+            elif len(row) == 1:
+                row_df = pd.DataFrame(data=[[column, np.nan, np.nan, row[0], np.nan]],columns=columns)
+                columns_df = pd.concat([columns_df, row_df], ignore_index=True)
+            elif len(row) == 0:
+                continue
+            else:
+                return #Error   
+        else:
+            pass
+    return columns_df
 
 if len(pdf_paths)==0:
     #CODE TO GET DOCUMENTS OF EACH STATE FROM NFHS 5
@@ -83,53 +116,54 @@ if len(pdf_paths)==0:
         cl.dl(state_link, os.path.join(base_path,resource_path,states_path))
     #ALL DOCUMENTS DOWNLOADED
     pdf_paths = cl.get_pdfs(os.path.join(base_path,resource_path,states_path))
-elif len(output_folders)==0: #if there are no folders inside output folder
+if len(output_folders)==0: #if there are no folders inside output folder
     pp.set_settings(settings)
     #PREPROCESS DATA OF PDFS
     for pdf_path in pdf_paths:
         pp.read_pdf_table(pdf_path)
-else: #if pdfs are downloaded and also there are folders in output folder i.e. csvs extracted
+if len(clean_output_folders) == 0: #if pdfs are downloaded and also there are folders in output folder i.e. csvs extracted
     pp.set_settings(settings)
     for folder in output_folders:
         folder_name = os.path.split(folder)[1]
-        table_dfs[folder_name] = []
         tables = list(os.scandir(folder))
         tables.sort(key=numericalSort)
-        pp.clear_backlog()
         for table in tables:
             table_ext = os.path.splitext(os.path.basename(table))[1]
             if table_ext == ".csv":
-                table_df = pp.clean_csv(table.path)
-                continue
-                table_df = pp.load_csv(table.path)
-                if table_df is not None:
-                    table_dfs[folder_name].append(table_df)
-    #Now tables are ready for processing
-    for folder in table_dfs.keys():
-        clean_path = os.path.join(base_path, clean_output_path, folder)
-        pp.makedirs(clean_path)
-        district_tables = {}
-        page_nums = []
-        for table in table_dfs[folder]:
-            print(table.name)
-            page_num = int(table.name.replace("table-page-","").replace("-table-1.csv",""))
-            page_nums.append(page_num)
-            offset = page_nums[0] #get first (non contents) table's page number to know offset
-            if offset:
-                offset = offset - 1 #as page numbers start counting from 1
-                state_offset[folder] = offset
-            else:
-                pass #breakpoint here
-            state = str(folder)
-            district = page_to_district(state,page_num) #found district the table corresponds to
-            district_table = district_tables.get(district)
-            if district_table is not None:
-                district_tables[district] = table #if no table for this district, put this table
-            else:
-                district_tables[district] = pd.concat([district_table,table], axis=1)
+                pp.load_csv(table.path)
+    data = pp.get_data()
+    #'Schema' of "data" dict is: data[state][district][column] = [value1, value2,...]
+    #Save the data as csv files (in x state folder, y district folder) in the clean output path:
+    for state in list(data.keys()):
+        state_path = os.path.join(base_path, clean_output_path, state)
+        for district in data[state].keys():
+            district_path = os.path.join(state_path, district)
+            dist_df = get_df(data[state][district])
+            pp.makedirs(state_path)
+            pp.makedirs(district_path)
+            dist_df.to_csv(os.path.join(district_path,"data.csv"))
+            data[state][district] = dist_df
+else:
+    #Read the list of folders (input arg) and return a dict with keys [state][district]
+    #data[state][district] = Dataframe object containing all columns and values
+    #Scheme of df: Metric, Urban5, Rural5, Total5, Total4
+    states = clean_output_folders
+    data = {}
+    for state in states:
+        districts = cl.get_folders(state,restrict_list)
+        state_name = os.path.split(state)[1]
+        if not data.get(state_name):
+            data[state_name] = {}
+        for district in districts:
+            district_name = os.path.split(district)[1]
+            data_paths = cl.get_csvs(district)
+            for data_path in data_paths:
+                dist_df = pd.read_csv(data_path)
+                data[state_name][district_name] = dist_df
+                print("Loaded " + state_name + " - " + district_name + ":")
+                print(dist_df)
+#Now 2D dict "data" contains dataframes of data for each state, district
 
-        for district in district_tables.keys():
-            district_tables[district].to_csv(os.path.join(clean_path, str(district) + ".csv"))
-        #state_table = pd.concat(list(table_dfs[folder]), axis=1)
-        #state_table.to_csv(os.path.join(clean_path,"table.csv"))
 print("end")
+
+
